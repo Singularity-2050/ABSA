@@ -1,0 +1,438 @@
+ids,text,aspect,sentiment,entity,attribute
+12:1,never singl problem worri virus,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+291:1,love keyboard,KEYBOARD#USABILITY,positive,KEYBOARD,USABILITY
+168:1,even great webcam skype work well,SOFTWARE#OPERATION_PERFORMANCE,positive,SOFTWARE,OPERATION_PERFORMANCE
+369:3,also love small conveni size laptop make perfect tool academ studi,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+282:1,impress batteri life perform small amount memori,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+B00FU83YWS_20_ANRBJAFRZR1M8:3,like new laptop lot,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+247:4,love,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B0096VDM8G_56_A2VQJTD3UB6YZ9:0,get giddi everi time use thing,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_54_A3ODG9PLY4Z27Y:4,well worth price tag,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+1:2,nice look key easi type,KEYBOARD#USABILITY,positive,KEYBOARD,USABILITY
+169:0,appar well build gorgeou look macbook pro win combin price perform,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+353:2,asid trial softwar short batteri life lack webcam great,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+B00FU83YWS_37_A1BEVTJDXGMJ5I:1,quiet run smoothli,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+88:0,buy last week next day return heat touch mous stop respond,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+42:8,also love extra calcul number set keyboard laptop,KEYBOARD#DESIGN_FEATURES,positive,KEYBOARD,DESIGN_FEATURES
+259:8,also get ad bonu hd monitor realli help extend screen keep eye fresh,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B00KMRGF28_304_A35Q7MBKQZV1SA:1,use facial recognit,SOFTWARE#GENERAL,negative,SOFTWARE,GENERAL
+189:8,bad part size weight,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+B00AH4A950_12_A2ZZTFOQZCX629:2,light easi use though,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+143:1,think pay qualiti decis buy appl product,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+380:1,serv need quit nice part,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+29:8,hard encount problem mac would requir abrupt action,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+302:2,love stabil mac softwar oper system,SOFTWARE#OPERATION_PERFORMANCE,positive,SOFTWARE,OPERATION_PERFORMANCE
+B00KMRGF28_185_A1JE1DCYMIWKJ4:1,like pay bill occasion read news buy stuff line winner,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B0096VDM8G_33_A16DVC8HE3Q3MW:0,expen worth,LAPTOP#PRICE,negative,LAPTOP,PRICE
+58:10,would definit recommend product nearli everyon,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_259_A22ELO0I334LNR:3,month work fine,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+259:4,drawback dirti screen get rather quickli,DISPLAY#QUALITY,negative,DISPLAY,QUALITY
+304:2,track pad realli stand though sever differ thing depend mani finger use track pad awesom think appl,MOUSE#DESIGN_FEATURES,positive,MOUSE,DESIGN_FEATURES
+B00KB3MXH4_19_A3N8I2LSC8VQF3:0,great laptop light versatil,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+191:0,problem reg product key,LAPTOP#MISCELLANEOUS,negative,LAPTOP,MISCELLANEOUS
+B00KMRGF28_98_A1YYZDBT4D9GEA:0,basic laptop,LAPTOP#MISCELLANEOUS,neutral,LAPTOP,MISCELLANEOUS
+B00KMRGF28_221_A4YVKTRE1Z1OU:2,clunker howev stop work two week deliv,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B0096VDM8G_28_A197TNH9U4YJMZ:1,great pc light power,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+97:5,also batteri last long,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+357:2,toshiba great brand even though long time happi,COMPANY#GENERAL,positive,COMPANY,GENERAL
+344:1,favorit part comput vga port connect big screen,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B00KMRGF28_331_A3LXQO6K4ZK6O6:0,easi set easi learn use,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+39:6,also like scroll window use two finger trackpad,MOUSE#OPERATION_PERFORMANCE,positive,MOUSE,OPERATION_PERFORMANCE
+318:0,pro great product wish inch model come intel processor comfort edg edg hurt wrist,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+B00KB3MXH4_16_A159MX2ZLCCFU2:0,love laptop moon,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+303:0,love use esay light,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B00KMRGF28_194_A22LSPFBF3E1XJ:7,bare file download almost imposs get thing load,LAPTOP#CONNECTIVITY,negative,LAPTOP,CONNECTIVITY
+381:2,downfal batteri last hr plug,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+B00FU83YWS_141_A3Q6JY8ZJAVPCW:0,terrif valu money,LAPTOP#PRICE,neutral,LAPTOP,PRICE
+72:2,like use race track handiecap hor race,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+294:3,fast boot shut connect internet,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+350:2,great deal,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+266:4,great job video shot canon mkii,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+375:2,wish webcam though would perfect,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+122:10,expect repair,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+266:0,amaz machin,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+217:0,get laptop help school hard time begin,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00KMRGF28_110_A1DQBA28Z04UI1:0,life never come across comput slow one can not perform basic oper practic useless,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00FU83YWS_8_A39B6W3B15HS0A:3,need price right,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_374_AS24VWQPFK1HB:10,comput run quiet mostli cool touch,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+171:5,macbook start fast crash fantast display small light model alway complain updat lose connect error blue screen etc,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_128_A1BJWKIOJWBL7N:1,respon touch,MOUSE#OPERATION_PERFORMANCE,negative,MOUSE,OPERATION_PERFORMANCE
+B0096VDM8G_5_A2Q6ZHSO5QDPRQ:1,stun retina display fast,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B0096VDM8G_65_A1AQ8JT2A3UWMY:10,batteri power laptop difficulti comput,LAPTOP#USABILITY,negative,LAPTOP,USABILITY
+45:4,pc user look convert would highli recommend,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B00KMRGF28_176_A7M27ZVQA4N2X:3,screen good whole thing light run hot,DISPLAY#GENERAL,positive,DISPLAY,GENERAL
+B00KB3MXH4_19_A3N8I2LSC8VQF3:0,great laptop light versatil,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+220:1,three week buy netbook screen quit work,DISPLAY#OPERATION_PERFORMANCE,negative,DISPLAY,OPERATION_PERFORMANCE
+84:1,macbook pro fit budget free ship tax can good price get great product,LAPTOP#PRICE,positive,LAPTOP,PRICE
+B00FU83YWS_19_A1MBI7JFXKWNWS:1,could lighter everyth,LAPTOP#DESIGN_FEATURES,neutral,LAPTOP,DESIGN_FEATURES
+269:0,comput may small one heck power hor,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00FU83YWS_61_A1TAIZR02ODKET:0,overal good process power good,CPU#OPERATION_PERFORMANCE,negative,CPU,OPERATION_PERFORMANCE
+B00KMRGF28_106_AGNDXNERJ5L83:3,keyboard nice window great worri come xp,KEYBOARD#GENERAL,positive,KEYBOARD,GENERAL
+54:5,fourth time I ve send get fix,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+115:1,comput good product repair depot stink,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+175:2,love oper system preload softwar,OS#GENERAL,positive,OS,GENERAL
+69:2,mac laptop fabul area,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+269:5,size actual help quit bit abl fit alreadi full backpack use restur food tabl alway space consum,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+152:1,board bad connector power suppli shortli warrenti expir power suppli start issu,POWER_SUPPLY#QUALITY,negative,POWER_SUPPLY,QUALITY
+393:6,ts nice high end laptop fit budget featur need,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+189:10,like fingerprint might laptop,LAPTOP#QUALITY,neutral,LAPTOP,QUALITY
+25:4,blue screen first month,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+394:6,screen bright keyboard nice,DISPLAY#QUALITY,positive,DISPLAY,QUALITY
+B00FU83YWS_216_A1GXCL1890WK2K:1,decent feel sharp display fast enough,DISPLAY#QUALITY,positive,DISPLAY,QUALITY
+130:2,st time get work next month send,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00KMRGF28_176_A7M27ZVQA4N2X:2,averag user work realli great,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B00AH4A950_5_A2GV12LV1OMGT1:1,even sound fantast,MULTIMEDIA_DEVICES#QUALITY,positive,MULTIMEDIA_DEVICES,QUALITY
+344:1,favorit part comput vga port connect big screen,LAPTOP#CONNECTIVITY,positive,LAPTOP,CONNECTIVITY
+B00KMRGF28_176_A7M27ZVQA4N2X:1,ye run old type processor hey even tri game,CPU#DESIGN_FEATURES,neutral,CPU,DESIGN_FEATURES
+B00D7Z84OY_2_A1QJVGE8L3RA69:2,would highli recommend comput fast,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+352:0,far good laptop,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+385:3,abl set labtop within minut,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+B0096VDM8G_88_A32QNAMOSUG1HS:0,love,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00FU83YWS_140_A1JT0VZE1TEZ13:3,lenovo softwar come preinstal may qualifi bloatwar easili remov interest,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+84:2,macbook arriv nice twin pack seal box function work great,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+366:8,friend child use need borrow net grow mean old old child readi one get one buy toshiba,COMPANY#GENERAL,positive,COMPANY,GENERAL
+89:3,final everyth run softwar instal plug droid recharg system crash,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+269:6,usb port sd memori card reader sd memori car expan,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+86:1,easi use keyboard easili accommod larg hand weight fanta,KEYBOARD#USABILITY,positive,KEYBOARD,USABILITY
+19:1,hard fix make hassl one,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+289:0,acer one compuer great comput,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00FU83YWS_216_A1GXCL1890WK2K:1,decent feel sharp display fast enough,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+230:8,want purchas extend warranti refu know troubl,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+25:5,horribl custom support lose laptop month get back month later,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+121:3,buyer bewar,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+154:9,even instal one printer hous unabl print,LAPTOP#USABILITY,negative,LAPTOP,USABILITY
+B00KMRGF28_374_AS24VWQPFK1HB:7,expect take good pictur video,MULTIMEDIA_DEVICES#QUALITY,negative,MULTIMEDIA_DEVICES,QUALITY
+B00KMRGF28_176_A7M27ZVQA4N2X:4,happi type right fast enough,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00FU83YWS_200_A2P9XOT1E1YQZ0:5,batteri could better robust processor plenti ram trade suppos,MEMORY#DESIGN_FEATURES,positive,MEMORY,DESIGN_FEATURES
+201:5,lot memori great batteri life,MEMORY#DESIGN_FEATURES,positive,MEMORY,DESIGN_FEATURES
+347:0,buy realli cheap also amaz,LAPTOP#PRICE,positive,LAPTOP,PRICE
+59:3,tip peopl look comput buy save bit money buy comput last,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+24:7,get comput back realizw still correct hp tell warranti problem,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00AH4A950_4_A37JIQH129VLKR:1,although slow feel ok price buy,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+170:2,easi use lightweight,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+262:6,addit design tool page keynot make much easy creat profession look document present,SOFTWARE#DESIGN_FEATURES,positive,SOFTWARE,DESIGN_FEATURES
+B00KMRGF28_163_A2D8S1LRNDVO7T:3,screen big everyth describ,DISPLAY#DESIGN_FEATURES,positive,DISPLAY,DESIGN_FEATURES
+B00KMRGF28_349_AHASB3H3S2SRN:4,descript say bluetooth,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+85:13,money time well spend,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+263:8,laptop rock wish could run solidwork cad appl support,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KB3MXH4_16_A159MX2ZLCCFU2:2,sound great fast,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_109_A1EUFUJPPD4V05:1,loud clunki figur get use,MOUSE#USABILITY,neutral,MOUSE,USABILITY
+94:2,letter stop work first week,KEYBOARD#OPERATION_PERFORMANCE,negative,KEYBOARD,OPERATION_PERFORMANCE
+320:2,aprehens toshiba laptop,COMPANY#GENERAL,negative,COMPANY,GENERAL
+B00KMRGF28_176_A7M27ZVQA4N2X:5,like everyth laptop,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+127:0,ever sinc buy laptop far experi noth constant break down laptop bad custom servic receiv phone toshiba custom servic hotlin,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+230:2,first fall apart right year warranti,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+72:3,face depan,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+239:4,nice portabl definit decent enough system keep entertain sit airplan coupl hour hotel take care last minut detail document,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+58:1,parent buy graduat gift total almost kind mayb definit obsess,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+325:2,dislik qualiti placement speaker,MULTIMEDIA_DEVICES#DESIGN_FEATURES,negative,MULTIMEDIA_DEVICES,DESIGN_FEATURES
+50:1,first screen goe complet,DISPLAY#OPERATION_PERFORMANCE,negative,DISPLAY,OPERATION_PERFORMANCE
+52:2,wonder danger come emit heat,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+175:0,moment open box present great joy,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_78_AX6U6FG5HD88L:9,great web design gener work,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+292:1,eas use top servic appl phone assist belli geniu bar beat,SUPPORT#QUALITY,positive,SUPPORT,QUALITY
+B00KMRGF28_248_ALFFLXZLA8653:3,set simpli annoy,LAPTOP#MISCELLANEOUS,negative,LAPTOP,MISCELLANEOUS
+B00AH4A950_15_A7XMOAALJQNFP:1,nice light seem help work instead becom work,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+168:4,wipe nearli everyth instal openoffic firefox oper incred effici use machin great price,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_285_AULBCYLXY34W9:0,great price comput,LAPTOP#PRICE,positive,LAPTOP,PRICE
+312:4,upgrad ram gb happi,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+283:0,screen awesom batteri life good,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+104:10,also sister get exact laptop sinc cheap month screen split half everyday use,LAPTOP#PRICE,positive,LAPTOP,PRICE
+179:1,devic serv modern requir strong game use design,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B00KMRGF28_284_A3FA96H7RRL740:0,product doa,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+100:0,never good result comput,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+298:3,use pc convert macbook pro easi,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+361:2,price featur meet need,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+60:0,unabl boot brand new laptop,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_54_A3ODG9PLY4Z27Y:0,thing run smoothli price batteri life seem go forev,LAPTOP#PRICE,neutral,LAPTOP,PRICE
+B00FU83YWS_218_A1P104WOJXMZV9:0,comput slow,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_145_A1X3Y4R5C1S4JH:1,take get use widow xp user mani year,OS#USABILITY,neutral,OS,USABILITY
+B0096VDM8G_32_ARJBI2V6ET8A4:1,somewhat learn curv oper system hardwar mac great,OS#GENERAL,positive,OS,GENERAL
+276:2,love easi use well school start teach kid earli comput easi get start,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+390:3,start good,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00FU83YWS_36_A21F9QHZIQH13I:2,one realli nice thing lenovo laptop clutter bunch trial softwar,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+58:6,sever program school offic use page number keynot etc music garageband photo manag photo booth iphoto video edit movi make imovi etc,SOFTWARE#DESIGN_FEATURES,neutral,SOFTWARE,DESIGN_FEATURES
+B00KMRGF28_213_A1HYE6WQREOY5C:4,comput great someon look manag onlin life banl facebook etc basic offlin work use ms offic,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B00KMRGF28_255_A145YHZR71EDFF:0,comput expect worth money,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_193_A20GPA6RDO8DT7:5,kid high school accid sit fine,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+24:5,yet hp anyth problem,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+152:1,board bad connector power suppli shortli warrenti expir power suppli start issu,MOTHERBOARD#QUALITY,negative,MOTHERBOARD,QUALITY
+B0096VDM8G_28_A197TNH9U4YJMZ:1,great pc light power,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B0096VDM8G_53_A13B85KZRCDWJZ:2,batteri life good even use high profil softwar like sibeliu good half day,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+92:12,tire inept servic,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+85:11,call appl support set new printer wonder experi help english speak vancouv tech walk process help,SUPPORT#QUALITY,positive,SUPPORT,QUALITY
+B00KMRGF28_12_A25B2Q7A775WAE:1,look basic pc way go,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+37:0,new macbook pro inch noth short amaz,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+353:2,asid trial softwar short batteri life lack webcam great,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+356:7,mous jump around time click stuff do not want,MOUSE#OPERATION_PERFORMANCE,negative,MOUSE,OPERATION_PERFORMANCE
+360:1,featur be not friendli volum wheel sound qualiti etc,MULTIMEDIA_DEVICES#QUALITY,negative,MULTIMEDIA_DEVICES,QUALITY
+269:8,overal would recomend anybodi tell want burn music play video game buy cd drive,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+289:9,one side play certin game tend freez sometim that bad thing comput,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_187_A13MKZMIR0KM7W:0,perform advertis well,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+334:0,could not use,LAPTOP#USABILITY,negative,LAPTOP,USABILITY
+97:3,also alot troubl get hot even sit anyth make hot,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+230:8,want purchas extend warranti refu know troubl,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00FU83YWS_200_A2P9XOT1E1YQZ0:4,excel keyboard crisp screen,KEYBOARD#GENERAL,positive,KEYBOARD,GENERAL
+273:0,alreadi hook sleek look depend laptop show,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+5:6,adjust mousepad sensit sensit,MOUSE#OPERATION_PERFORMANCE,negative,MOUSE,OPERATION_PERFORMANCE
+211:0,noth headach sinc purchas,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00KMRGF28_145_A1X3Y4R5C1S4JH:5,devic light weight quiet oper produc littl heat,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+348:0,everyth fine machin speed capac build,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00FU83YWS_37_A1BEVTJDXGMJ5I:4,neg would get pretti warm sit lap long pretti much standard lop top think,LAPTOP#QUALITY,neutral,LAPTOP,QUALITY
+B0096VDM8G_45_A2SPGNGEHWEP8R:2,retina screen solid build qualiti weight fast processor reliabl appl brand,DISPLAY#QUALITY,positive,DISPLAY,QUALITY
+B00KMRGF28_213_A1HYE6WQREOY5C:0,price super product box,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+178:0,notebook pc toshiba qosmio good gift father could ever get,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+288:6,bit heavi,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+43:0,macbook pro huge disappoint,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00KMRGF28_78_AX6U6FG5HD88L:8,still give star rate fast nice size screen,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+239:8,sound bit quiet plane easili overcom decent pair head phone,MULTIMEDIA_DEVICES#QUALITY,neutral,MULTIMEDIA_DEVICES,QUALITY
+69:2,mac laptop fabul area,MEMORY#DESIGN_FEATURES,positive,MEMORY,DESIGN_FEATURES
+273:4,learn finger option mousepad allow quick brow web page,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+6:9,also space bar make noisi click everi time use,KEYBOARD#QUALITY,negative,KEYBOARD,QUALITY
+36:11,could even put entir music collect garabag,HARD_DISC#DESIGN_FEATURES,negative,HARD_DISC,DESIGN_FEATURES
+341:0,overal plea toshiba satellit like extra featur love window home premium,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_386_A1QTE23J88FVZX:1,light pictur nice price amaz,LAPTOP#PRICE,positive,LAPTOP,PRICE
+B00KMRGF28_194_A22LSPFBF3E1XJ:9,disappoint,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00FU83YWS_200_A2P9XOT1E1YQZ0:0,good valu money,LAPTOP#PRICE,neutral,LAPTOP,PRICE
+69:4,final cut pro laptop fast easi use seemlessli transfer work home comput also mac,SOFTWARE#OPERATION_PERFORMANCE,positive,SOFTWARE,OPERATION_PERFORMANCE
+B00KMRGF28_259_A22ELO0I334LNR:6,give star poor pictur qualiti great buy,DISPLAY#QUALITY,negative,DISPLAY,QUALITY
+B00KMRGF28_106_AGNDXNERJ5L83:1,look good well build good speed,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+115:8,well plug comput come loo,POWER_SUPPLY#QUALITY,negative,POWER_SUPPLY,QUALITY
+338:1,cheap price equal cheap product,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+374:2,anoth thing month leave mous key broke cost send fix,SUPPORT#PRICE,negative,SUPPORT,PRICE
+285:2,easi use good qualiti good price,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+B00KMRGF28_96_A17B83D5U1E5W2:2,expect champion perform want play game whatev comput,LAPTOP#OPERATION_PERFORMANCE,neutral,LAPTOP,OPERATION_PERFORMANCE
+270:1,object buy window system starter charg upgrad,OS#MISCELLANEOUS,negative,OS,MISCELLANEOUS
+96:4,abl talk american warranti servic countri,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00KMRGF28_97_A2F819YX0XJ5Y1:2,get pay opinion worth,LAPTOP#PRICE,positive,LAPTOP,PRICE
+135:0,call laptop run slow hate,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00AH4A950_11_AC5RTYQQU6A9A:0,love ultrabook,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_185_A1JE1DCYMIWKJ4:2,gamer need heavi comput use get someth el,LAPTOP#MISCELLANEOUS,negative,LAPTOP,MISCELLANEOUS
+31:12,light batteri last long time,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B00KMRGF28_168_A3TKNSIFQ0WOEE:3,home page startup easi navig one thing mainli concern,OS#USABILITY,positive,OS,USABILITY
+B0096VDM8G_29_A1JFXUCXT356UK:8,realli love qualiti speed,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+391:9,unibodi construct solid sleek beauti,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+88:4,dissappoint becas toshiba year never issu,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+277:3,problem,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+364:1,price good product top qualiti,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+B0096VDM8G_34_A1B3PJ2QZABWXO:5,easili get hour full charg,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+B00D7Z84OY_48_A2XVST4DRWHUO2:1,even extrem tech savvi boyfriend impress featur sleek design,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+230:10,take friend temporarili fix final pay extend warranti,WARRANTY#PRICE,neutral,WARRANTY,PRICE
+228:2,later hold zero charg replac work less three month,BATTERY#MISCELLANEOUS,negative,BATTERY,MISCELLANEOUS
+B00FU83YWS_262_APGJ4QQPM9QIX:4,use wireless mous touch pad red button middl work like littl joystick also work fine,MOUSE#OPERATION_PERFORMANCE,positive,MOUSE,OPERATION_PERFORMANCE
+22:9,acual believ issu nvidia grafic card still requir return,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+69:7,transcript work side flatlin keyboard make type quick easi well,KEYBOARD#DESIGN_FEATURES,positive,KEYBOARD,DESIGN_FEATURES
+68:2,like machin lightweight,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+94:5,fact comput work twenti fourth day fault,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+89:6,tey even support bio could problem bio compani make fairli decent product get away insan,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+361:2,price featur meet need,LAPTOP#PRICE,positive,LAPTOP,PRICE
+243:0,featur power want replac desktop machin,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B00KMRGF28_96_A17B83D5U1E5W2:1,type person like brow internet enjoy medium light work microsoft offic laptop,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+196:5,small enough take pretti much anywher still big enough screen get everyth do,LAPTOP#PORTABILITY,positive,LAPTOP,PORTABILITY
+54:1,spend alot money product nightmar,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+364:1,price good product top qualiti,LAPTOP#PRICE,positive,LAPTOP,PRICE
+1:6,good part even come free printer certain promot offer go cour,LAPTOP#MISCELLANEOUS,positive,LAPTOP,MISCELLANEOUS
+B00KMRGF28_241_A30T2OLDHWQ1EP:3,also fan window fortun instal whatev want laptop without issu,OS#GENERAL,negative,OS,GENERAL
+366:11,love laptop wonder price get,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+213:14,manag compli wait see find anoth way screw,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00KMRGF28_341_A23O6JB0TUPOJG:1,disc drive open function,OPTICAL_DRIVES#QUALITY,negative,OPTICAL_DRIVES,QUALITY
+333:1,graphic clean sharp internet interfac seamless,GRAPHICS#QUALITY,positive,GRAPHICS,QUALITY
+102:0,hp g dx die month,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+B00FU83YWS_37_A1BEVTJDXGMJ5I:2,realli like video option stream movi amazon prime netflix lag,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+329:0,good laptop valu,LAPTOP#PRICE,neutral,LAPTOP,PRICE
+266:5,happi th toshiba laptop,COMPANY#GENERAL,positive,COMPANY,GENERAL
+B00KMRGF28_215_A3F2WL4GE692P5:4,small compact laptop travel via air often size weight problem,LAPTOP#DESIGN_FEATURES,neutral,LAPTOP,DESIGN_FEATURES
+B00FU83YWS_213_A3BFZ9CMLQWKV9:1,give everyth need comput long last batteri also give mobil,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+B00KB3MXH4_16_A159MX2ZLCCFU2:6,microsoft offic day trial number game app alreadi preload,SOFTWARE#MISCELLANEOUS,neutral,SOFTWARE,MISCELLANEOUS
+B00KMRGF28_162_A2A9UX1U9D816V:1,turn take batteri might work sure bad batteri comput,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00FU83YWS_36_A21F9QHZIQH13I:2,one realli nice thing lenovo laptop clutter bunch trial softwar,SOFTWARE#MISCELLANEOUS,positive,SOFTWARE,MISCELLANEOUS
+377:3,discharg quickli,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+1:2,nice look key easi type,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+302:2,love stabil mac softwar oper system,OS#OPERATION_PERFORMANCE,positive,OS,OPERATION_PERFORMANCE
+319:2,great comput,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+380:4,one complaint laptop notic electron fuzz sound come headphon jack headphon plug,PORTS#QUALITY,negative,PORTS,QUALITY
+296:6,applic call boot camp allow add anoth os x like window,SOFTWARE#MISCELLANEOUS,positive,SOFTWARE,MISCELLANEOUS
+336:3,comfterbal use light easi transport,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+100:6,would rather spend money comput cost toshiba good,COMPANY#GENERAL,negative,COMPANY,GENERAL
+B00D7Z84OY_19_A2KZTN24NDPI8P:0,look feel good,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+B00FU83YWS_10_A1RQMWLGV6X4PV:0,work good seem like make sturdi,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+B00KB3MXH4_6_A1OJE3DZ64LB6H:0,ok comput,LAPTOP#GENERAL,neutral,LAPTOP,GENERAL
+38:3,run dreamweav final cut pro photoshop safari firefox msn messeng applic constantli time,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+96:1,get comput back month later still break send repair,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00KMRGF28_187_A13MKZMIR0KM7W:5,tini forgiv drawback ethernet cabl outlet,LAPTOP#CONNECTIVITY,neutral,LAPTOP,CONNECTIVITY
+22:1,well build,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+306:2,upgrad memori replac base window starter win home run fine,LAPTOP#USABILITY,neutral,LAPTOP,USABILITY
+213:1,lcd screen stop work mine month,DISPLAY#OPERATION_PERFORMANCE,negative,DISPLAY,OPERATION_PERFORMANCE
+310:4,take long get switch mac comput program navig fine like way laptop function much well,SOFTWARE#USABILITY,positive,SOFTWARE,USABILITY
+339:0,plain simpl laptop run great load fast,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+60:1,spend hour phone hp technic support,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00KMRGF28_176_A7M27ZVQA4N2X:7,put free app word process work like charm,SOFTWARE#OPERATION_PERFORMANCE,positive,SOFTWARE,OPERATION_PERFORMANCE
+342:1,fast easi easi easi set easi hook wireless network,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+124:7,mention everyth size weight keyboard scream bulk,KEYBOARD#GENERAL,negative,KEYBOARD,GENERAL
+329:0,good laptop valu,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+327:3,one seem work,SUPPORT#QUALITY,positive,SUPPORT,QUALITY
+B0096VDM8G_45_A2SPGNGEHWEP8R:4,devic work flawlessli,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+333:3,sound card limit though,MULTIMEDIA_DEVICES#DESIGN_FEATURES,negative,MULTIMEDIA_DEVICES,DESIGN_FEATURES
+B00KMRGF28_176_A7M27ZVQA4N2X:4,happi type right fast enough,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+389:4,make perfect decis buy toshiba,COMPANY#GENERAL,positive,COMPANY,GENERAL
+314:4,amaz part pc user startup shutdown time fact rare restart thing,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00AH4A950_2_A2ST2XNUI1FB38:2,bootup time amaz batteri life decent great slim form factor,BATTERY#OPERATION_PERFORMANCE,neutral,BATTERY,OPERATION_PERFORMANCE
+50:2,hp send back hardwar screw abl connect,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+86:2,upgrad window starter thru window home premium window profession snap,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+B00FU83YWS_200_A2P9XOT1E1YQZ0:0,good valu money,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+256:4,pair iphon pure pleasur talk painless sync use take forev snap,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+55:1,love solid build light wt excel batteri life,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+389:3,dual boot linux secur prone os perform flawlessli,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+130:1,month connect qualiti get wor wor,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+294:2,real stand comput feel keyboard speed,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00FU83YWS_12_A35C5C6W0TIZA8:2,two month power cord pin break compani replac cd drive liter jump laptop unannounc shatter million piec,SUPPORT#QUALITY,neutral,SUPPORT,QUALITY
+B0096VDM8G_29_A1JFXUCXT356UK:8,realli love qualiti speed,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+288:14,disappoint realiz keyboard light model,KEYBOARD#DESIGN_FEATURES,negative,KEYBOARD,DESIGN_FEATURES
+252:0,far great product,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+183:1,super easi set realli easi get use,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+329:5,key stick period have not laptop day yet,KEYBOARD#QUALITY,negative,KEYBOARD,QUALITY
+259:0,touchpad intuit much never want use button click,MOUSE#USABILITY,positive,MOUSE,USABILITY
+166:14,happi buy mac well worth extra money,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+307:5,easi type feel great besid ad featur keyboard light,KEYBOARD#USABILITY,positive,KEYBOARD,USABILITY
+267:0,meet need perfectli light enough senior carri without affect arthriti,LAPTOP#PORTABILITY,positive,LAPTOP,PORTABILITY
+231:7,comput aw would never recomend anoth person,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00KMRGF28_78_AX6U6FG5HD88L:6,ship,LAPTOP#PRICE,positive,LAPTOP,PRICE
+150:2,graphic aw wireless switch top rather side use side,LAPTOP#USABILITY,negative,LAPTOP,USABILITY
+36:6,even read write half time,DISPLAY#USABILITY,negative,DISPLAY,USABILITY
+57:0,love glass touchpad,MOUSE#DESIGN_FEATURES,positive,MOUSE,DESIGN_FEATURES
+B00KB3MXH4_10_A32154TIUMUEBZ:1,fast would like everyth el great,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+164:3,great,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+269:3,first got think size joke,LAPTOP#DESIGN_FEATURES,neutral,LAPTOP,DESIGN_FEATURES
+367:2,differ toshiba lot memori hard drive space,HARD_DISC#DESIGN_FEATURES,positive,HARD_DISC,DESIGN_FEATURES
+B00KMRGF28_331_A3LXQO6K4ZK6O6:2,good product good price,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+364:2,deliveri fast would hesit purchas laptop,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+45:3,laptop almost yr old never problem,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00FU83YWS_201_A14L9PF5EWEZUN:3,great valu get,LAPTOP#PRICE,positive,LAPTOP,PRICE
+B00KMRGF28_214_A1PS6GRSMNBXBJ:5,dell desktop year qualm buy dell laptop,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00FU83YWS_140_A1JT0VZE1TEZ13:3,lenovo softwar come preinstal may qualifi bloatwar easili remov interest,LAPTOP#DESIGN_FEATURES,neutral,LAPTOP,DESIGN_FEATURES
+31:2,screen bright clear oper system solid friendli novic,OS#QUALITY,positive,OS,QUALITY
+296:7,second get scratch easili get old thing may oper,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+201:2,new macbook purcha one good comput,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_331_A3LXQO6K4ZK6O6:2,good product good price,LAPTOP#PRICE,positive,LAPTOP,PRICE
+282:2,understand window starter includ,OS#GENERAL,negative,OS,GENERAL
+B00AH4A950_14_A3ODX2HCMPBUCA:0,screen break month outsid warranti,DISPLAY#QUALITY,negative,DISPLAY,QUALITY
+201:6,sleek lightweight charg quickli need,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+31:3,fast fast fast web page fli,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+24:4,batteri get hot scari,BATTERY#QUALITY,negative,BATTERY,QUALITY
+367:3,super fast great valu price,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+134:3,total unconcern comput correctli repair first place,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+231:5,call dell help reurn new comput use leave figur,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+16:2,contact hp situat give excus without result,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+12:3,worth invest truli fine piec equip,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00D7Z84OY_3_A3Q8WSIN4LWVLK:6,make littl nois alright much,LAPTOP#QUALITY,neutral,LAPTOP,QUALITY
+59:1,replac hard drive batteri stop work month use frustrat,BATTERY#QUALITY,negative,BATTERY,QUALITY
+384:2,bare use usb devic stay connect properli,LAPTOP#CONNECTIVITY,negative,LAPTOP,CONNECTIVITY
+73:4,lot extra space keyboard ridicul small,KEYBOARD#DESIGN_FEATURES,negative,KEYBOARD,DESIGN_FEATURES
+277:2,screen take get use small laptop,DISPLAY#DESIGN_FEATURES,neutral,DISPLAY,DESIGN_FEATURES
+240:0,great product easi use great graphic,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+94:8,spend eight hundr dollar giant paper weight look good bu,LAPTOP#PRICE,negative,LAPTOP,PRICE
+B00KMRGF28_206_AUDBDAE7ORZVV:1,wide screen easi use,DISPLAY#DESIGN_FEATURES,positive,DISPLAY,DESIGN_FEATURES
+200:0,great laptop price work well action pack game,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+289:4,buy anoth comput would definetli buy acer one comput,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+327:2,go toshiba onlin help find suggest fix,SUPPORT#QUALITY,positive,SUPPORT,QUALITY
+64:4,summari spend money elsewher,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+40:11,also good colleg student need reliabl easi use comput,LAPTOP#QUALITY,positive,LAPTOP,QUALITY
+71:6,ilif softwar come comput simpl use produc great finish product,SOFTWARE#USABILITY,positive,SOFTWARE,USABILITY
+102:3,month start shut minut,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00D7Z84OY_19_A2KZTN24NDPI8P:0,look feel good,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+359:5,take toshiba tech support call differ tech correct problem,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+56:2,batteri life could better overal price toshiba reput laptop great,BATTERY#OPERATION_PERFORMANCE,neutral,BATTERY,OPERATION_PERFORMANCE
+294:1,pc window take littl get use,OS#USABILITY,neutral,OS,USABILITY
+B00KMRGF28_335_A1FNSDXR0J2ITC:4,otherwis great comput great price,LAPTOP#PRICE,positive,LAPTOP,PRICE
+202:0,far exceed expect power storag abilitiy,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+B00KMRGF28_187_A13MKZMIR0KM7W:3,wonder machin,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_218_A1N9RU7NH4O21I:4,sure get bad egg instead get replac decid tri differ one,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+165:8,happi,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00D7Z84OY_1_A2MOLJZACB33ZY:1,system sometim lag lot,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+B00FU83YWS_203_A9GCSPVVE7ML0:2,work well,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_145_A1X3Y4R5C1S4JH:3,downfal preload mcafe softwar,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+231:9,yeah want throw lap top window light fire,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00FU83YWS_140_A1JT0VZE1TEZ13:3,lenovo softwar come preinstal may qualifi bloatwar easili remov interest,SOFTWARE#GENERAL,neutral,SOFTWARE,GENERAL
+B00KMRGF28_145_A1X3Y4R5C1S4JH:5,devic light weight quiet oper produc littl heat,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B00KMRGF28_218_A1N9RU7NH4O21I:1,key becam jam sometim press,KEYBOARD#QUALITY,negative,KEYBOARD,QUALITY
+89:1,small enough use long flight light enough carri airport power enough replac desktop long busi trip,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B00KMRGF28_143_A2F0D5EV8ZOK44:2,price great wish window opinion,OS#GENERAL,negative,OS,GENERAL
+134:11,would recommend purchas modl toshiba comput toshiba product matter,COMPANY#GENERAL,negative,COMPANY,GENERAL
+76:0,love sinc take box,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+104:8,worth one bit,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+356:9,think would spend littl extra get well make laptop,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+B00FU83YWS_8_A39B6W3B15HS0A:0,one laptop still avail win pro multipl usb port dvd read write drive,OS#GENERAL,positive,OS,GENERAL
+54:0,buy laptop bad laptop ever buy,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B0096VDM8G_5_A2Q6ZHSO5QDPRQ:4,also sound qualiti speaker crystal clear everyth sleek smooth,MULTIMEDIA_DEVICES#QUALITY,positive,MULTIMEDIA_DEVICES,QUALITY
+B00FU83YWS_12_A35C5C6W0TIZA8:4,seem like lenovo also make weird choic side put powercord slot,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+394:7,find use key thought would,KEYBOARD#DESIGN_FEATURES,positive,KEYBOARD,DESIGN_FEATURES
+B00FU83YWS_145_A2ZQTQU49CF77U:2,buy parent late love particularli keyboard screen,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+289:10,acer one comput buy inc screen hard find lap top bag like big screen,LAPTOP#PORTABILITY,negative,LAPTOP,PORTABILITY
+201:4,featur necessari colleg abl ad onto comput,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+58:8,itun handi music manag program essenti anyon ipod,SOFTWARE#MISCELLANEOUS,positive,SOFTWARE,MISCELLANEOUS
+242:1,softwar speed enabl amaz thing,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+359:8,buyer bewar,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+213:15,realli world bad repair servic,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+81:0,good keyboard long batteri life large hard drive window,HARD_DISC#DESIGN_FEATURES,positive,HARD_DISC,DESIGN_FEATURES
+81:0,good keyboard long batteri life large hard drive window,KEYBOARD#GENERAL,positive,KEYBOARD,GENERAL
+102:1,start get hot month,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+375:1,run smooth quick,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+36:4,do not work worth damn,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+394:13,remov softwar laptop load second,LAPTOP#OPERATION_PERFORMANCE,neutral,LAPTOP,OPERATION_PERFORMANCE
+314:3,think learn mac os would hard easili pick familiar pc,OS#USABILITY,positive,OS,USABILITY
+B00KMRGF28_176_A7M27ZVQA4N2X:3,screen good whole thing light run hot,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+319:5,overal though money spend great deal,LAPTOP#PRICE,positive,LAPTOP,PRICE
+152:3,actual contact toshiba start problem give run around suppli serial number order delay send laptop warrenti expir,SUPPORT#QUALITY,negative,SUPPORT,QUALITY
+B00FU83YWS_5_A32LJA5R33Y631:4,slow might problemat,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+B00FU83YWS_19_A1MBI7JFXKWNWS:3,screen clear bright,DISPLAY#QUALITY,positive,DISPLAY,QUALITY
+B00FU83YWS_262_APGJ4QQPM9QIX:1,everyth want build wi fi connect slot sd camera memori card dvd burner big beauti screen plenti usb port three one keyboard nice touch,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+325:3,overal ok,LAPTOP#GENERAL,neutral,LAPTOP,GENERAL
+128:3,happi new mac,LAPTOP#GENERAL,negative,LAPTOP,GENERAL
+292:0,macbook outstand product great valu,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+25:4,blue screen first month,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+386:3,batteri upgrad long life batteri,LAPTOP#USABILITY,negative,LAPTOP,USABILITY
+282:0,far good,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00FU83YWS_19_A1MBI7JFXKWNWS:2,batteri seem adequ use hour use charg,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+325:1,dislik weight size cubersom,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+303:5,program esay use quick process comput work like charm,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+391:12,still beauti well color reproduct could ever expect notebook,DISPLAY#QUALITY,positive,DISPLAY,QUALITY
+379:1,well worth money cost good inv,LAPTOP#PRICE,positive,LAPTOP,PRICE
+43:2,system constantli overheat batteri life short case come apart core applic use everi day work graphic artist run poorli,SOFTWARE#OPERATION_PERFORMANCE,negative,SOFTWARE,OPERATION_PERFORMANCE
+384:0,major problem laptop except plastic piec cover usb port wire come,PORTS#QUALITY,negative,PORTS,QUALITY
+1:7,overal laptop definit keeper simpl yet stylish design array fantast color choo,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00FU83YWS_200_A2P9XOT1E1YQZ0:2,fast enough purpos,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+312:2,everyth tri work never carri wall charger caus batteri awesom,LAPTOP#OPERATION_PERFORMANCE,positive,LAPTOP,OPERATION_PERFORMANCE
+B0096VDM8G_85_A333WUOS73QYJ6:1,build perfect screen fantast bit problem fact buy adaptor nearli everyth vga cabl ethernet cabl almost perfect,DISPLAY#GENERAL,positive,DISPLAY,GENERAL
+177:2,crisp screen great batteri life plenti storag,DISPLAY#QUALITY,positive,DISPLAY,QUALITY
+262:7,come handi educ,SOFTWARE#USABILITY,positive,SOFTWARE,USABILITY
+386:2,batteri life need life,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+308:4,keyboard also nice solid feel,KEYBOARD#QUALITY,positive,KEYBOARD,QUALITY
+B00FU83YWS_61_A1TAIZR02ODKET:3,batteri last long web brow hour mayb,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+111:0,keep hard drive replac,HARD_DISC#QUALITY,negative,HARD_DISC,QUALITY
+B00KMRGF28_145_A1X3Y4R5C1S4JH:3,downfal preload mcafe softwar,SOFTWARE#GENERAL,negative,SOFTWARE,GENERAL
+B00KMRGF28_386_A1QTE23J88FVZX:1,light pictur nice price amaz,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+372:5,cheap throw togeth,LAPTOP#QUALITY,negative,LAPTOP,QUALITY
+382:2,everyth easi,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+343:1,final decid laptop right price need,LAPTOP#PRICE,positive,LAPTOP,PRICE
+69:9,buy appl laptop,COMPANY#GENERAL,positive,COMPANY,GENERAL
+B0096VDM8G_8_A1BMRP4BO8IV13:1,resolut gorgeou comput light everyth need interfac pretti intuit,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+69:7,transcript work side flatlin keyboard make type quick easi well,KEYBOARD#USABILITY,positive,KEYBOARD,USABILITY
+308:0,purchas daughter pleasantli surpris,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+391:22,know hr batteri look like,BATTERY#OPERATION_PERFORMANCE,negative,BATTERY,OPERATION_PERFORMANCE
+B00KMRGF28_396_A3L1L2X4G6Y5UK:0,bit ugli work good,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+B00FU83YWS_25_A3504VWFA6UMTO:1,lenovo good laptop,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+302:5,machin awesom ilif great love snow leopard x,OS#GENERAL,positive,OS,GENERAL
+B0096VDM8G_57_A2MZ152WGRBXCC:1,fast power screen display top notch batteri life excel laptop size,BATTERY#OPERATION_PERFORMANCE,positive,BATTERY,OPERATION_PERFORMANCE
+B0096VDM8G_5_A2Q6ZHSO5QDPRQ:7,great product happy,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+B00KMRGF28_304_A35Q7MBKQZV1SA:0,use time black screen return refund,DISPLAY#OPERATION_PERFORMANCE,negative,DISPLAY,OPERATION_PERFORMANCE
+278:0,take netbook vacat trip abl whatev want without lug much heavy laptop,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+374:2,anoth thing month leave mous key broke cost send fix,MOUSE#QUALITY,negative,MOUSE,QUALITY
+B00FU83YWS_36_A21F9QHZIQH13I:6,touch pad take littl get use click button top instead bottom,MOUSE#USABILITY,neutral,MOUSE,USABILITY
+21:1,use coupl week overal oper poor,LAPTOP#OPERATION_PERFORMANCE,negative,LAPTOP,OPERATION_PERFORMANCE
+373:2,great product,LAPTOP#GENERAL,positive,LAPTOP,GENERAL
+294:5,think manual somewher hard drive rather hard copi,LAPTOP#MISCELLANEOUS,neutral,LAPTOP,MISCELLANEOUS
+202:1,easi navig updat program,LAPTOP#USABILITY,positive,LAPTOP,USABILITY
+394:5,good thing laptop price along new featur,LAPTOP#DESIGN_FEATURES,positive,LAPTOP,DESIGN_FEATURES
+B00KMRGF28_78_AX6U6FG5HD88L:0,great laptop price,LAPTOP#PRICE,neutral,LAPTOP,PRICE
+124:2,mine come w dvd burner,LAPTOP#DESIGN_FEATURES,negative,LAPTOP,DESIGN_FEATURES
+115:2,send laptop three time get fix,SUPPORT#QUALITY,negative,SUPPORT,QUALITY

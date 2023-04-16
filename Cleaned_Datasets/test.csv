@@ -1,0 +1,802 @@
+ids,text,aspect,sentiment
+B0074703CM_108_ANONYMOUS:0,well first appl comput impress,LAPTOP#GENERAL,positive
+B0074703CM_108_ANONYMOUS:1,work well fast reboot,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_108_ANONYMOUS:4,glad far,COMPANY#GENERAL,positive
+B0074703CM_108_ANONYMOUS:4,glad far,LAPTOP#GENERAL,positive
+B00GJUQ4Z0_10_ANONYMOUS:0,l w rea llllyy slow,LAPTOP#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_10_ANONYMOUS:1,like serious realli slow,LAPTOP#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_10_ANONYMOUS:2,imposs use,LAPTOP#USABILITY,negative
+B00GJUQ4Z0_10_ANONYMOUS:3,can not even read properli,LAPTOP#USABILITY,negative
+B00GJUQ4Z0_10_ANONYMOUS:4,plu russian input wtf,LAPTOP#MISCELLANEOUS,negative
+B0146DD02G_18_ANONYMOUS:0,great laptop run game work realli fast,LAPTOP#GENERAL,positive
+B0146DD02G_18_ANONYMOUS:0,great laptop run game work realli fast,LAPTOP#MISCELLANEOUS,positive
+B0146DD02G_18_ANONYMOUS:0,great laptop run game work realli fast,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_18_ANONYMOUS:1,realli light carri everywher,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_18_ANONYMOUS:1,realli light carri everywher,LAPTOP#PORTABILITY,positive
+B0146DD02G_18_ANONYMOUS:2,great batteri life,BATTERY#OPERATION_PERFORMANCE,positive
+B0146DD02G_18_ANONYMOUS:3,everyth great price,LAPTOP#PRICE,positive
+B0146DD02G_18_ANONYMOUS:4,complet recommend,LAPTOP#GENERAL,positive
+B0074703CM_268_ANONYMOUS:0,excel valu must buy someon look macbook,LAPTOP#PRICE,positive
+B0074703CM_268_ANONYMOUS:0,excel valu must buy someon look macbook,LAPTOP#GENERAL,positive
+B0074703CM_268_ANONYMOUS:1,get well price come intern disk drive,LAPTOP#PRICE,positive
+B0074703CM_268_ANONYMOUS:1,get well price come intern disk drive,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_268_ANONYMOUS:3,plu get gb also great featur,HARD_DISC#DESIGN_FEATURES,positive
+B0074703CM_268_ANONYMOUS:4,also resal valu keep,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_268_ANONYMOUS:5,highli recommend get one go,LAPTOP#GENERAL,positive
+B0074703CM_240_ANONYMOUS:2,get black friday good discount happy,LAPTOP#PRICE,positive
+B0074703CM_240_ANONYMOUS:2,get black friday good discount happy,LAPTOP#GENERAL,positive
+B0074703CM_240_ANONYMOUS:3,screen great see need retina display,DISPLAY#QUALITY,positive
+B0074703CM_240_ANONYMOUS:4,also realli like addit sd card slot,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_286_ANONYMOUS:0,macbook pro amaz,LAPTOP#GENERAL,positive
+B0074703CM_286_ANONYMOUS:1,afraid disc player plea,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_286_ANONYMOUS:4,love new high retina display comput lack disc player make significantli light,DISPLAY#QUALITY,positive
+B0074703CM_286_ANONYMOUS:4,love new high retina display comput lack disc player make significantli light,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_286_ANONYMOUS:5,overal fast light practic comput highli recommend,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_286_ANONYMOUS:5,overal fast light practic comput highli recommend,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_286_ANONYMOUS:5,overal fast light practic comput highli recommend,LAPTOP#USABILITY,positive
+B0074703CM_286_ANONYMOUS:5,overal fast light practic comput highli recommend,LAPTOP#GENERAL,positive
+B0074703CM_210_ANONYMOUS:0,buy macbook pro octob year later still work flawless ever,LAPTOP#QUALITY,positive
+B0074703CM_210_ANONYMOUS:0,buy macbook pro octob year later still work flawless ever,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_210_ANONYMOUS:1,never problem comput macbook charger chord anoth stori though,LAPTOP#GENERAL,positive
+B0074703CM_210_ANONYMOUS:1,never problem comput macbook charger chord anoth stori though,POWER_SUPPLY#GENERAL,negative
+B0074703CM_210_ANONYMOUS:2,tri jump appl bandwagon live denial,COMPANY#GENERAL,positive
+B0074703CM_210_ANONYMOUS:4,happi buy,COMPANY#GENERAL,positive
+B00M166GWM_2_ANONYMOUS:0,buy laptop good buy januari still love,LAPTOP#GENERAL,positive
+B00M166GWM_2_ANONYMOUS:1,use tablet laptop whatev want,LAPTOP#USABILITY,positive
+B00M166GWM_2_ANONYMOUS:2,play sim time littl issu,LAPTOP#MISCELLANEOUS,positive
+B00M166GWM_2_ANONYMOUS:3,thing wake super fast alway readi go,LAPTOP#OPERATION_PERFORMANCE,positive
+B00M166GWM_2_ANONYMOUS:4,music video sound great look great,MULTIMEDIA_DEVICES#QUALITY,positive
+B00M166GWM_2_ANONYMOUS:4,music video sound great look great,DISPLAY#QUALITY,positive
+B00M166GWM_2_ANONYMOUS:5,use everyday,LAPTOP#GENERAL,positive
+B00M166GWM_2_ANONYMOUS:6,favorit comput ever,LAPTOP#GENERAL,positive
+B00L49X8E6_27_A2RNZC4CJ3046C:0,comput overal great,LAPTOP#GENERAL,positive
+B00L49X8E6_27_A2RNZC4CJ3046C:1,run fast,LAPTOP#OPERATION_PERFORMANCE,positive
+B00L49X8E6_27_A2RNZC4CJ3046C:2,ship fast,SHIPPING#QUALITY,positive
+B00L49X8E6_27_A2RNZC4CJ3046C:3,etc compani seller lie tri make extra buck,COMPANY#GENERAL,negative
+B00L49X8E6_27_A2RNZC4CJ3046C:4,buy pc play game stream movi could handl friend want put music cd,LAPTOP#MISCELLANEOUS,positive
+B00L49X8E6_27_A2RNZC4CJ3046C:5,could see disk drive side seem button,OPTICAL_DRIVES#DESIGN_FEATURES,negative
+B00L49X8E6_27_A2RNZC4CJ3046C:9,disk drive button,OPTICAL_DRIVES#DESIGN_FEATURES,negative
+B00L49X8E6_27_A2RNZC4CJ3046C:12,say quot comput disk drive furiou,LAPTOP#DESIGN_FEATURES,negative
+B00L49X8E6_27_A2RNZC4CJ3046C:13,bewar buyer comput useless piec plastic,LAPTOP#DESIGN_FEATURES,negative
+B00L49X8E6_27_A2RNZC4CJ3046C:14,thank asu deserv capit,COMPANY#GENERAL,negative
+B0074703CM_21_ANONYMOUS:0,great comput,LAPTOP#GENERAL,positive
+B0074703CM_21_ANONYMOUS:1,great appl product expect,LAPTOP#GENERAL,positive
+B0074703CM_21_ANONYMOUS:1,great appl product expect,COMPANY#GENERAL,positive
+B0074703CM_21_ANONYMOUS:2,good batteri life,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_21_ANONYMOUS:3,great color screen,DISPLAY#QUALITY,positive
+B0074703CM_21_ANONYMOUS:4,good speaker laptop comput,MULTIMEDIA_DEVICES#GENERAL,positive
+B0074703CM_145_ANONYMOUS:0,new laptop great,LAPTOP#GENERAL,positive
+B0074703CM_145_ANONYMOUS:1,much speed screen sharp,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_145_ANONYMOUS:1,much speed screen sharp,DISPLAY#QUALITY,positive
+B0074703CM_145_ANONYMOUS:3,admit oper system differ take time learn like,OS#USABILITY,neutral
+B0074703CM_145_ANONYMOUS:3,admit oper system differ take time learn like,OS#GENERAL,positive
+B0074703CM_145_ANONYMOUS:4,would recommend anyon,LAPTOP#GENERAL,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:1,laptop fine applic basic websurf,LAPTOP#MISCELLANEOUS,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:2,speaker fairli basic probabl comput buy main aim stream music watch movi,MULTIMEDIA_DEVICES#GENERAL,neutral
+B00L49X8E6_16_A3LBA8TGYC1CK3:2,speaker fairli basic probabl comput buy main aim stream music watch movi,LAPTOP#MISCELLANEOUS,negative
+B00L49X8E6_16_A3LBA8TGYC1CK3:3,touchpad littl quot clunki quot tast use small extern mous laptop event,MOUSE#DESIGN_FEATURES,negative
+B00L49X8E6_16_A3LBA8TGYC1CK3:4,appreci rel larg keyboard number pad screen size,KEYBOARD#DESIGN_FEATURES,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:4,appreci rel larg keyboard number pad screen size,DISPLAY#DESIGN_FEATURES,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:5,also find track pad irrit disabl quot pinch zoom quot,MOUSE#USABILITY,negative
+B00L49X8E6_16_A3LBA8TGYC1CK3:6,large laptop heavi,LAPTOP#DESIGN_FEATURES,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:7,batteri life great though new,BATTERY#OPERATION_PERFORMANCE,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:9,overal solid laptop price,LAPTOP#QUALITY,positive
+B00L49X8E6_16_A3LBA8TGYC1CK3:9,overal solid laptop price,LAPTOP#PRICE,neutral
+B0146DD02G_26_ANONYMOUS:1,howev thing immedi occur read review amazon decid spec appear look good enough go ahead,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_26_ANONYMOUS:2,well first impress ok certainli boot quickli thank ssd limit use far game fast enough normal usag,LAPTOP#GENERAL,neutral
+B0146DD02G_26_ANONYMOUS:2,well first impress ok certainli boot quickli thank ssd limit use far game fast enough normal usag,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_26_ANONYMOUS:2,well first impress ok certainli boot quickli thank ssd limit use far game fast enough normal usag,HARD_DISC#GENERAL,positive
+B0146DD02G_26_ANONYMOUS:3,certainli look nice nice dark blue top fingerprint magnet other point,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_26_ANONYMOUS:3,certainli look nice nice dark blue top fingerprint magnet other point,LAPTOP#QUALITY,negative
+B0146DD02G_26_ANONYMOUS:4,also find touch pad awkward use could press hard perhap screen well underwhelm,MOUSE#USABILITY,negative
+B0146DD02G_26_ANONYMOUS:4,also find touch pad awkward use could press hard perhap screen well underwhelm,DISPLAY#GENERAL,negative
+B0146DD02G_26_ANONYMOUS:5,honest littl disappoint consid return,LAPTOP#GENERAL,negative
+B00L49X8E6_126_A24EWKFHT3EC4F:0,horribl laptop,LAPTOP#GENERAL,negative
+B00L49X8E6_126_A24EWKFHT3EC4F:1,within day usag alreadi slow significantli viru enter system right away,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_126_A24EWKFHT3EC4F:1,within day usag alreadi slow significantli viru enter system right away,LAPTOP#QUALITY,negative
+B00L49X8E6_126_A24EWKFHT3EC4F:3,heavi,LAPTOP#DESIGN_FEATURES,negative
+B00L49X8E6_126_A24EWKFHT3EC4F:4,regret immedi,LAPTOP#GENERAL,negative
+B00L49X8E6_126_A24EWKFHT3EC4F:5,noth like descript say,LAPTOP#GENERAL,negative
+B0074703CM_53_ANONYMOUS:0,appl mac book pro crash three time sinc purchas,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_53_ANONYMOUS:0,appl mac book pro crash three time sinc purchas,LAPTOP#QUALITY,negative
+B0074703CM_53_ANONYMOUS:2,time appl uninstal origin factori set start,SUPPORT#QUALITY,negative
+B0074703CM_53_ANONYMOUS:3,believ macbook pro lemon right gate,LAPTOP#QUALITY,negative
+B0074703CM_53_ANONYMOUS:5,,LAPTOP#GENERAL,negative
+B0074703CM_33_ANONYMOUS:0,comput like lose word,LAPTOP#GENERAL,positive
+B0074703CM_33_ANONYMOUS:1,good switch ever do,LAPTOP#GENERAL,positive
+B0074703CM_33_ANONYMOUS:3,much memori ram memori,MEMORY#DESIGN_FEATURES,positive
+B0074703CM_33_ANONYMOUS:3,much memori ram memori,HARD_DISC#DESIGN_FEATURES,positive
+B0074703CM_33_ANONYMOUS:4,even batteri life like wow,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_33_ANONYMOUS:5,love love loooov,LAPTOP#GENERAL,positive
+B0074703CM_156_ANONYMOUS:1,say fulli satisfi perform comput suppli,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_156_ANONYMOUS:2,contain long batteri life incre spec overal enjoy perform,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_156_ANONYMOUS:2,contain long batteri life incre spec overal enjoy perform,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_156_ANONYMOUS:2,contain long batteri life incre spec overal enjoy perform,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_156_ANONYMOUS:3,upgrad toshiba laptop fulli impress benefit mac oper system provid,OS#GENERAL,positive
+B0074703CM_156_ANONYMOUS:4,snappi processor allow quickli upload photo video well creat movi colleagu enjoy,CPU#OPERATION_PERFORMANCE,positive
+B0074703CM_156_ANONYMOUS:4,snappi processor allow quickli upload photo video well creat movi colleagu enjoy,LAPTOP#USABILITY,positive
+B0074703CM_156_ANONYMOUS:5,upgrad comput say find littl flaw product henc star review,LAPTOP#GENERAL,positive
+B0146DD02G_19_ANONYMOUS:0,love comput,LAPTOP#GENERAL,positive
+B0146DD02G_19_ANONYMOUS:1,do everyth expect,LAPTOP#GENERAL,positive
+B0146DD02G_19_ANONYMOUS:2,sure abl need futur well,LAPTOP#GENERAL,positive
+B0146DD02G_19_ANONYMOUS:3,screen look great opinion sound nice,DISPLAY#QUALITY,positive
+B0146DD02G_19_ANONYMOUS:3,screen look great opinion sound nice,MULTIMEDIA_DEVICES#QUALITY,positive
+B0146DD02G_19_ANONYMOUS:4,far complaint do not expect mani complaint futur,LAPTOP#GENERAL,positive
+B0074703CM_20_ANONYMOUS:2,give set troubl call tech support,LAPTOP#GENERAL,negative
+B0074703CM_20_ANONYMOUS:3,great,SUPPORT#QUALITY,positive
+B0074703CM_20_ANONYMOUS:4,easi breezi sinc,LAPTOP#GENERAL,positive
+B0074703CM_20_ANONYMOUS:5,could love mac,LAPTOP#GENERAL,positive
+B0074703CM_20_ANONYMOUS:5,could love mac,COMPANY#GENERAL,positive
+B00O0W450A_16_ANONYMOUS:0,far good encount issu comput,LAPTOP#GENERAL,positive
+B00O0W450A_16_ANONYMOUS:1,love flip featur touch screen featur,LAPTOP#DESIGN_FEATURES,positive
+B00O0W450A_16_ANONYMOUS:1,love flip featur touch screen featur,DISPLAY#DESIGN_FEATURES,positive
+B00O0W450A_16_ANONYMOUS:2,price pay feel get good valu,LAPTOP#PRICE,neutral
+B00O0W450A_16_ANONYMOUS:2,price pay feel get good valu,LAPTOP#GENERAL,positive
+B00O0W450A_16_ANONYMOUS:3,lap top light purchas import mayb shop,LAPTOP#DESIGN_FEATURES,negative
+B0074703CM_284_ANONYMOUS:0,prospect buyer go mac never go back,COMPANY#GENERAL,positive
+B0074703CM_284_ANONYMOUS:0,prospect buyer go mac never go back,LAPTOP#GENERAL,positive
+B0074703CM_284_ANONYMOUS:2,good decis ever make,LAPTOP#GENERAL,positive
+B0074703CM_284_ANONYMOUS:3,run fast day get problem,LAPTOP#QUALITY,positive
+B0074703CM_284_ANONYMOUS:3,run fast day get problem,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_284_ANONYMOUS:4,de frag deliet cooki run secur program common pc problem delt order keep run speed,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_284_ANONYMOUS:4,de frag deliet cooki run secur program common pc problem delt order keep run speed,LAPTOP#QUALITY,positive
+B0074703CM_284_ANONYMOUS:5,get viru mac long run cost mac save buy secur replac comput everi year two,LAPTOP#QUALITY,positive
+B0074703CM_284_ANONYMOUS:8,never issu frustrat great easi wireless one fun,LAPTOP#GENERAL,positive
+B0074703CM_284_ANONYMOUS:8,never issu frustrat great easi wireless one fun,LAPTOP#CONNECTIVITY,positive
+B00O0W450A_12_ANONYMOUS:0,great,LAPTOP#GENERAL,positive
+B00O0W450A_12_ANONYMOUS:1,touch screen even need mous,DISPLAY#DESIGN_FEATURES,positive
+B00O0W450A_12_ANONYMOUS:1,touch screen even need mous,LAPTOP#USABILITY,positive
+B00O0W450A_12_ANONYMOUS:2,probabl never use tablet mode nice know option,LAPTOP#DESIGN_FEATURES,positive
+B00O0W450A_12_ANONYMOUS:3,draw hand sure love use tablet mode,LAPTOP#MISCELLANEOUS,positive
+B00O0W450A_12_ANONYMOUS:4,lastli flip comfort lie bed keyboard face watch show close without adjust sit posit keyboard,LAPTOP#DESIGN_FEATURES,positive
+B00O0W450A_12_ANONYMOUS:4,lastli flip comfort lie bed keyboard face watch show close without adjust sit posit keyboard,LAPTOP#USABILITY,positive
+B00O0W450A_12_ANONYMOUS:4,lastli flip comfort lie bed keyboard face watch show close without adjust sit posit keyboard,KEYBOARD#USABILITY,positive
+B0074703CM_193_ANONYMOUS:3,comput great,LAPTOP#GENERAL,positive
+B0074703CM_193_ANONYMOUS:4,gb ssd gb ram instal,HARD_DISC#DESIGN_FEATURES,neutral
+B0074703CM_193_ANONYMOUS:4,gb ssd gb ram instal,MEMORY#DESIGN_FEATURES,neutral
+B0074703CM_193_ANONYMOUS:5,run fast get,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_193_ANONYMOUS:6,enjoy simplic user friendli interfac yosemit,OS#USABILITY,positive
+B0074703CM_193_ANONYMOUS:7,excit el capitan,OS#GENERAL,positive
+B0074703CM_193_ANONYMOUS:8,app easi use,SOFTWARE#USABILITY,positive
+B0074703CM_193_ANONYMOUS:9,resolut excel,DISPLAY#QUALITY,positive
+B0074703CM_193_ANONYMOUS:11,satisfi everyth machin,LAPTOP#GENERAL,positive
+B0074703CM_102_ANONYMOUS:1,like mani other learn curv excit,LAPTOP#GENERAL,positive
+B0074703CM_102_ANONYMOUS:1,like mani other learn curv excit,LAPTOP#USABILITY,neutral
+B0074703CM_102_ANONYMOUS:2,mbp clean neat simpl,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_102_ANONYMOUS:2,mbp clean neat simpl,LAPTOP#USABILITY,positive
+B0074703CM_102_ANONYMOUS:3,like,LAPTOP#GENERAL,positive
+B0074703CM_102_ANONYMOUS:4,take less time power close case go sleep mode,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_102_ANONYMOUS:5,open wake almost immedi,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_102_ANONYMOUS:6,nice,LAPTOP#GENERAL,positive
+B0074703CM_102_ANONYMOUS:7,plea decis howev week,LAPTOP#GENERAL,positive
+B0074703CM_102_ANONYMOUS:8,thing dissappoint though,LAPTOP#GENERAL,negative
+B0074703CM_102_ANONYMOUS:9,usb port,LAPTOP#DESIGN_FEATURES,negative
+B0074703CM_102_ANONYMOUS:11,hdmi port,LAPTOP#DESIGN_FEATURES,negative
+B0074703CM_102_ANONYMOUS:13,headphon jack combo jack headphon microphon,MULTIMEDIA_DEVICES#DESIGN_FEATURES,neutral
+B0074703CM_102_ANONYMOUS:14,big deal skype lot game regular headphon set separ jack headphon sound microphon input work mac,MULTIMEDIA_DEVICES#DESIGN_FEATURES,neutral
+B0074703CM_102_ANONYMOUS:14,big deal skype lot game regular headphon set separ jack headphon sound microphon input work mac,LAPTOP#USABILITY,negative
+B0146DD02G_0_ANONYMOUS:0,student major comput scienc realli fall love laptop,LAPTOP#GENERAL,positive
+B0146DD02G_0_ANONYMOUS:2,inch big small,LAPTOP#DESIGN_FEATURES,neutral
+B0146DD02G_0_ANONYMOUS:3,late cpu gtx gpu make laptop blaze fast boot second help ssd cour,CPU#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:3,late cpu gtx gpu make laptop blaze fast boot second help ssd cour,GRAPHICS#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:3,late cpu gtx gpu make laptop blaze fast boot second help ssd cour,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_0_ANONYMOUS:3,late cpu gtx gpu make laptop blaze fast boot second help ssd cour,HARD_DISC#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:4,gb ssd enough os game document anyth,HARD_DISC#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:5,also extra bay extra hdd wish add one,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:6,touchscreen,DISPLAY#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:9,keyboard nice arrang silent back light nice like materi attract oil finger,KEYBOARD#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:9,keyboard nice arrang silent back light nice like materi attract oil finger,KEYBOARD#QUALITY,positive
+B0146DD02G_0_ANONYMOUS:9,keyboard nice arrang silent back light nice like materi attract oil finger,KEYBOARD#QUALITY,negative
+B0146DD02G_0_ANONYMOUS:10,clean regularli stay look good,KEYBOARD#QUALITY,negative
+B0146DD02G_0_ANONYMOUS:11,laptop silent fan kick laptop heavi load thank th gener intel core draw less power thu less heat,LAPTOP#QUALITY,positive
+B0146DD02G_0_ANONYMOUS:11,laptop silent fan kick laptop heavi load thank th gener intel core draw less power thu less heat,FANS_COOLING#OPERATION_PERFORMANCE,positive
+B0146DD02G_0_ANONYMOUS:11,laptop silent fan kick laptop heavi load thank th gener intel core draw less power thu less heat,CPU#OPERATION_PERFORMANCE,positive
+B0146DD02G_0_ANONYMOUS:13,run game realli well,LAPTOP#MISCELLANEOUS,positive
+B0146DD02G_0_ANONYMOUS:14,well realli well,LAPTOP#MISCELLANEOUS,neutral
+B0146DD02G_0_ANONYMOUS:15,moba like dota smite run max qualiti set fp,DISPLAY#OPERATION_PERFORMANCE,neutral
+B0146DD02G_0_ANONYMOUS:16,medium set titl like tomb raider accept fp minimum accept fp pcmasterrac,DISPLAY#OPERATION_PERFORMANCE,neutral
+B0146DD02G_0_ANONYMOUS:17,lightweight easi carri around,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:17,lightweight easi carri around,LAPTOP#PORTABILITY,positive
+B0146DD02G_0_ANONYMOUS:18,screen matt p display nice poor view angl,DISPLAY#QUALITY,positive
+B0146DD02G_0_ANONYMOUS:18,screen matt p display nice poor view angl,DISPLAY#DESIGN_FEATURES,negative
+B0146DD02G_0_ANONYMOUS:19,find adjust regularli,DISPLAY#USABILITY,negative
+B0146DD02G_0_ANONYMOUS:20,look sleek gorgeou,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_0_ANONYMOUS:21,blend accessori use,LAPTOP#USABILITY,positive
+B0146DD02G_0_ANONYMOUS:22,happi purchas,LAPTOP#GENERAL,positive
+B0146DD02G_0_ANONYMOUS:23,price think buy anyth well,LAPTOP#PRICE,positive
+B0146DD02G_0_ANONYMOUS:23,price think buy anyth well,LAPTOP#GENERAL,positive
+B0074703CM_182_ANONYMOUS:1,say impress,LAPTOP#GENERAL,positive
+B0074703CM_182_ANONYMOUS:2,quick get run minimum setup time right open box,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_182_ANONYMOUS:2,quick get run minimum setup time right open box,LAPTOP#USABILITY,positive
+B0074703CM_182_ANONYMOUS:4,worth,LAPTOP#GENERAL,positive
+B0074703CM_182_ANONYMOUS:5,pay pay late happi choic go laptop,LAPTOP#GENERAL,positive
+B00L49X8E6_17_AX87PN2JFND46:0,disappoint,LAPTOP#GENERAL,negative
+B00L49X8E6_17_AX87PN2JFND46:1,seem like great comput great deal,LAPTOP#GENERAL,negative
+B00L49X8E6_17_AX87PN2JFND46:1,seem like great comput great deal,LAPTOP#PRICE,negative
+B00L49X8E6_17_AX87PN2JFND46:2,first one arriv work,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_17_AX87PN2JFND46:2,first one arriv work,LAPTOP#QUALITY,negative
+B00L49X8E6_17_AX87PN2JFND46:4,space bar stick,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00L49X8E6_17_AX87PN2JFND46:5,find hard navig screen screen,LAPTOP#USABILITY,negative
+B00L49X8E6_17_AX87PN2JFND46:6,non comput savvi person disappoint,LAPTOP#GENERAL,negative
+B0074703CM_3_ANONYMOUS:0,like inch macbook,LAPTOP#GENERAL,positive
+B0074703CM_3_ANONYMOUS:1,size ideal weight accept,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_3_ANONYMOUS:2,new mac os mountain lion nice featur wel trackpad,OS#DESIGN_FEATURES,positive
+B0074703CM_3_ANONYMOUS:2,new mac os mountain lion nice featur wel trackpad,MOUSE#DESIGN_FEATURES,positive
+B0074703CM_3_ANONYMOUS:3,think would need optic drive sinc use sever time,OPTICAL_DRIVES#GENERAL,neutral
+B0074703CM_3_ANONYMOUS:3,think would need optic drive sinc use sever time,LAPTOP#DESIGN_FEATURES,neutral
+B0074703CM_3_ANONYMOUS:5,magnet lid charger cool batteri indic side cool,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_3_ANONYMOUS:5,magnet lid charger cool batteri indic side cool,POWER_SUPPLY#DESIGN_FEATURES,positive
+B0074703CM_88_ANONYMOUS:5,mac light compact thought would regret buy retina display least mac pro work fine,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_88_ANONYMOUS:5,mac light compact thought would regret buy retina display least mac pro work fine,DISPLAY#QUALITY,positive
+B0074703CM_88_ANONYMOUS:5,mac light compact thought would regret buy retina display least mac pro work fine,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_88_ANONYMOUS:9,os easi offer kind surpris,OS#USABILITY,positive
+B0074703CM_88_ANONYMOUS:9,os easi offer kind surpris,OS#MISCELLANEOUS,positive
+B0074703CM_227_ANONYMOUS:0,use appl sinc fast good one,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_227_ANONYMOUS:0,use appl sinc fast good one,LAPTOP#GENERAL,positive
+B0074703CM_227_ANONYMOUS:4,mac allow,LAPTOP#USABILITY,positive
+B0074703CM_227_ANONYMOUS:6,fast high perform comput,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_227_ANONYMOUS:7,enough comput almost everyon,LAPTOP#GENERAL,positive
+B0074703CM_227_ANONYMOUS:8,would hesit recommend anyon,LAPTOP#GENERAL,positive
+B0074703CM_227_ANONYMOUS:9,fast easi set,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_227_ANONYMOUS:9,fast easi set,LAPTOP#USABILITY,positive
+B0074703CM_227_ANONYMOUS:10,clone datum old comput use carbon copi cloner ccc simpli move everyth new comput run speed dream,LAPTOP#USABILITY,positive
+B0074703CM_227_ANONYMOUS:10,clone datum old comput use carbon copi cloner ccc simpli move everyth new comput run speed dream,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_106_ANONYMOUS:0,mac book pro comput disorgan lazi eye candi person we,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_106_ANONYMOUS:2,macbook pro alreadi understand jump hoop act like friendli guid,LAPTOP#USABILITY,positive
+B0074703CM_106_ANONYMOUS:3,want use internet make icon jump bottom screen like magnifi glass project onto select icon,SOFTWARE#USABILITY,positive
+B0074703CM_106_ANONYMOUS:4,comput amaz individu want extra work via understand laptop,LAPTOP#USABILITY,positive
+B00YGFLBP8_9_ANONYMOUS:0,would give star hour updat upon arriv,LAPTOP#GENERAL,positive
+B00YGFLBP8_9_ANONYMOUS:0,would give star hour updat upon arriv,LAPTOP#MISCELLANEOUS,negative
+B00YGFLBP8_9_ANONYMOUS:1,love,LAPTOP#GENERAL,positive
+B00YGFLBP8_9_ANONYMOUS:2,portabl reliabl great use,LAPTOP#PORTABILITY,positive
+B00YGFLBP8_9_ANONYMOUS:2,portabl reliabl great use,LAPTOP#QUALITY,positive
+B00YGFLBP8_9_ANONYMOUS:2,portabl reliabl great use,LAPTOP#GENERAL,positive
+B00YGFLBP8_9_ANONYMOUS:3,posit matter posit laptop stay,LAPTOP#USABILITY,positive
+B00YGFLBP8_9_ANONYMOUS:4,sturdi,LAPTOP#QUALITY,positive
+B00YGFLBP8_9_ANONYMOUS:5,quick boot run effici,LAPTOP#OPERATION_PERFORMANCE,positive
+B00YGFLBP8_9_ANONYMOUS:6,touchscreen great,DISPLAY#GENERAL,positive
+B00YGFLBP8_9_ANONYMOUS:7,neg aforement con updat,LAPTOP#MISCELLANEOUS,negative
+B0074703CM_31_ANONYMOUS:0,everyth expect mac,LAPTOP#GENERAL,positive
+B0074703CM_31_ANONYMOUS:1,look feel solid flawless finish,LAPTOP#QUALITY,positive
+B0074703CM_31_ANONYMOUS:1,look feel solid flawless finish,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_31_ANONYMOUS:2,screen definit superb fire super quick close,DISPLAY#QUALITY,positive
+B0074703CM_31_ANONYMOUS:2,screen definit superb fire super quick close,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_31_ANONYMOUS:3,week leav side,LAPTOP#GENERAL,positive
+B0074703CM_97_ANONYMOUS:3,machin flawless fast classi,LAPTOP#GENERAL,positive
+B0074703CM_97_ANONYMOUS:3,machin flawless fast classi,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_97_ANONYMOUS:3,machin flawless fast classi,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_288_ANONYMOUS:0,laptop own far good,LAPTOP#GENERAL,positive
+B0074703CM_288_ANONYMOUS:2,sure cover descript backlit keyboard get hour batteri life one charg except use game video obvious would drain batteri fast,KEYBOARD#DESIGN_FEATURES,positive
+B0074703CM_288_ANONYMOUS:2,sure cover descript backlit keyboard get hour batteri life one charg except use game video obvious would drain batteri fast,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_288_ANONYMOUS:3,wake less second open lid,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_288_ANONYMOUS:4,screen extrem high resolut plea,DISPLAY#QUALITY,positive
+B0074703CM_288_ANONYMOUS:5,even though macbook expen see well worth money,LAPTOP#PRICE,negative
+B0074703CM_288_ANONYMOUS:5,even though macbook expen see well worth money,LAPTOP#GENERAL,positive
+B0074703CM_288_ANONYMOUS:7,regret buy comput,LAPTOP#GENERAL,positive
+B0074703CM_184_ANONYMOUS:0,daughter macbook air batteri bulg deform keyboard sever day ago,BATTERY#QUALITY,negative
+B0074703CM_184_ANONYMOUS:1,take day make appoint local appl store,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:2,sure happen next came back home cri piec paper hand new batteri replac new keyboard,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:2,sure happen next came back home cri piec paper hand new batteri replac new keyboard,SUPPORT#PRICE,negative
+B0074703CM_184_ANONYMOUS:3,could believ consid batteri defect go appl store ask manag,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:4,explain batteri expan normal,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:5,appl cover batteri expan circumst even appl care,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:6,batteri simpli consid consum cover,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:7,ask manag feel comfort post pictur macbook air internet descript appl consid product defect,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:8,repli astonish look behind thick glass say make sure fact straight smear,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:10,specifi tone voic postur indic someth swat team bunch lawyer,SUPPORT#QUALITY,negative
+B0074703CM_184_ANONYMOUS:11,take busi model appl push right get cheap junk china hire bunch cheerlead straight high school call genius bulli everybodi complain product,COMPANY#GENERAL,negative
+B0074703CM_184_ANONYMOUS:12,steve job dead appl,COMPANY#GENERAL,negative
+B0074703CM_184_ANONYMOUS:13,appl devic household,COMPANY#GENERAL,negative
+B0074703CM_184_ANONYMOUS:14,plea googl macbook batteri bulg explod buy next appl toy,BATTERY#QUALITY,negative
+B0074703CM_184_ANONYMOUS:14,plea googl macbook batteri bulg explod buy next appl toy,COMPANY#GENERAL,negative
+B0074703CM_228_ANONYMOUS:0,spoil build qualiti stabil macintosh even use comput gem,LAPTOP#QUALITY,positive
+B0074703CM_228_ANONYMOUS:0,spoil build qualiti stabil macintosh even use comput gem,LAPTOP#GENERAL,positive
+B0074703CM_228_ANONYMOUS:1,bat around thing everyon el say use decad noth bad say,LAPTOP#GENERAL,positive
+B0074703CM_228_ANONYMOUS:2,churn hd content run without mani flaw yet get viru mac sinc start use platform earli,DISPLAY#QUALITY,positive
+B0074703CM_228_ANONYMOUS:2,churn hd content run without mani flaw yet get viru mac sinc start use platform earli,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_228_ANONYMOUS:2,churn hd content run without mani flaw yet get viru mac sinc start use platform earli,LAPTOP#QUALITY,positive
+B0074703CM_228_ANONYMOUS:3,amp macbook motherboard fri think sugar spill never bother clean,MOTHERBOARD#QUALITY,neutral
+B0074703CM_228_ANONYMOUS:5,issu ever sinc work mac,COMPANY#GENERAL,positive
+B0074703CM_228_ANONYMOUS:5,issu ever sinc work mac,LAPTOP#GENERAL,positive
+B0074703CM_228_ANONYMOUS:6,pretti impress track record think,COMPANY#GENERAL,positive
+B00M166GWM_0_ANONYMOUS:2,howev hp envi definit meet expect,LAPTOP#GENERAL,positive
+B00M166GWM_0_ANONYMOUS:3,thoroughli impress purchas thu far regret purchas,LAPTOP#GENERAL,positive
+B00M166GWM_0_ANONYMOUS:4,price may seem high worth everi penni mani perk,LAPTOP#PRICE,negative
+B00M166GWM_0_ANONYMOUS:4,price may seem high worth everi penni mani perk,LAPTOP#GENERAL,positive
+B00M166GWM_0_ANONYMOUS:5,pro ton storag space laptop come gb memori tb gb hard drive,MEMORY#DESIGN_FEATURES,positive
+B00M166GWM_0_ANONYMOUS:5,pro ton storag space laptop come gb memori tb gb hard drive,HARD_DISC#DESIGN_FEATURES,positive
+B00M166GWM_0_ANONYMOUS:6,plenti space laptop realli come handi colleg student comput gamer,HARD_DISC#DESIGN_FEATURES,positive
+B00M166GWM_0_ANONYMOUS:8,capabl eas switch laptop tablet huge plu,LAPTOP#DESIGN_FEATURES,positive
+B00M166GWM_0_ANONYMOUS:8,capabl eas switch laptop tablet huge plu,LAPTOP#USABILITY,positive
+B00M166GWM_0_ANONYMOUS:9,look get laptop laptop consid,LAPTOP#MISCELLANEOUS,positive
+B00M166GWM_0_ANONYMOUS:10,love flexibl abl fold like tent watch movi without keyboard way thing,LAPTOP#USABILITY,positive
+B00M166GWM_0_ANONYMOUS:12,find much easy type much durabl,KEYBOARD#USABILITY,positive
+B00M166GWM_0_ANONYMOUS:12,find much easy type much durabl,KEYBOARD#QUALITY,positive
+B00M166GWM_0_ANONYMOUS:13,batteri life batteri life realli good laptop problem thu far,BATTERY#OPERATION_PERFORMANCE,positive
+B00M166GWM_0_ANONYMOUS:14,usual go hour get batteri life,BATTERY#OPERATION_PERFORMANCE,positive
+B00M166GWM_0_ANONYMOUS:16,con disc drive call old fashion still enjoy listen physic cd upload itun,LAPTOP#DESIGN_FEATURES,negative
+B00M166GWM_0_ANONYMOUS:17,howev long laptop contain disc drive,LAPTOP#DESIGN_FEATURES,negative
+B00M166GWM_0_ANONYMOUS:20,overal definit would recommend product colleg student market new laptop,LAPTOP#GENERAL,positive
+B00M166GWM_0_ANONYMOUS:21,touchscreen capabl huge bonu realli easi carri around class,DISPLAY#DESIGN_FEATURES,positive
+B00M166GWM_0_ANONYMOUS:21,touchscreen capabl huge bonu realli easi carri around class,LAPTOP#DESIGN_FEATURES,positive
+B00M166GWM_0_ANONYMOUS:21,touchscreen capabl huge bonu realli easi carri around class,LAPTOP#PORTABILITY,positive
+B00M166GWM_0_ANONYMOUS:22,also nice abl play candi crush angri bird class straight laptop,LAPTOP#MISCELLANEOUS,positive
+B00M166GWM_0_ANONYMOUS:23,make much excit play,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_194_ANONYMOUS:0,actual write review new macbook love,LAPTOP#GENERAL,positive
+B0074703CM_194_ANONYMOUS:2,comput self amaz,LAPTOP#GENERAL,positive
+B0074703CM_194_ANONYMOUS:3,old model know upfront everyth look,LAPTOP#MISCELLANEOUS,neutral
+B0074703CM_194_ANONYMOUS:3,old model know upfront everyth look,LAPTOP#GENERAL,positive
+B0074703CM_194_ANONYMOUS:6,moment receiv macbook like dream come true,LAPTOP#GENERAL,positive
+B0074703CM_194_ANONYMOUS:8,know upgrad ram gb pick lot,MEMORY#DESIGN_FEATURES,neutral
+B0074703CM_194_ANONYMOUS:11,also read review research find laptop easili upgrad easi work anoth big plu,LAPTOP#USABILITY,positive
+B0074703CM_194_ANONYMOUS:12,long stori short want oldi goodi laptop,LAPTOP#GENERAL,positive
+B0074703CM_194_ANONYMOUS:13,know peopl complain new model depend look,LAPTOP#MISCELLANEOUS,neutral
+B0074703CM_194_ANONYMOUS:15,highli recommend,LAPTOP#GENERAL,positive
+B0074703CM_279_ANONYMOUS:0,comput fantast tool word process search internet keep track everyday life,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_279_ANONYMOUS:1,also incre light batteri last day look like piec art,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_279_ANONYMOUS:1,also incre light batteri last day look like piec art,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_279_ANONYMOUS:2,though pretti much pay well design devic,LAPTOP#PRICE,neutral
+B0074703CM_279_ANONYMOUS:2,though pretti much pay well design devic,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_279_ANONYMOUS:3,look intern spec comput worth,LAPTOP#DESIGN_FEATURES,negative
+B0074703CM_279_ANONYMOUS:4,gb storag capac option gb hard drive ghz dual core intel core expect game comput make sure pick extern hard drive,HARD_DISC#DESIGN_FEATURES,negative
+B0074703CM_279_ANONYMOUS:4,gb storag capac option gb hard drive ghz dual core intel core expect game comput make sure pick extern hard drive,CPU#DESIGN_FEATURES,negative
+B0074703CM_279_ANONYMOUS:4,gb storag capac option gb hard drive ghz dual core intel core expect game comput make sure pick extern hard drive,LAPTOP#MISCELLANEOUS,negative
+B0074703CM_279_ANONYMOUS:5,look trendi hipster live without mac great buy,LAPTOP#GENERAL,negative
+B0146DD02G_11_ANONYMOUS:1,mix great balanc spec need need,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_11_ANONYMOUS:3,pro nice look,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_11_ANONYMOUS:5,keyboard great,KEYBOARD#GENERAL,positive
+B0146DD02G_11_ANONYMOUS:7,want simpl full hd display one job,DISPLAY#DESIGN_FEATURES,positive
+B0146DD02G_11_ANONYMOUS:8,sound great,MULTIMEDIA_DEVICES#QUALITY,positive
+B0146DD02G_11_ANONYMOUS:9,extra slot hdd,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_11_ANONYMOUS:10,cd drive,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_11_ANONYMOUS:12,con web cam,MULTIMEDIA_DEVICES#DESIGN_FEATURES,negative
+B0146DD02G_11_ANONYMOUS:13,vga realli asu,MULTIMEDIA_DEVICES#DESIGN_FEATURES,negative
+B0146DD02G_11_ANONYMOUS:14,want show anyon,MULTIMEDIA_DEVICES#DESIGN_FEATURES,negative
+B0146DD02G_11_ANONYMOUS:15,anyway use webcam much care,MULTIMEDIA_DEVICES#DESIGN_FEATURES,neutral
+B0146DD02G_11_ANONYMOUS:16,view angl great,DISPLAY#DESIGN_FEATURES,negative
+B0146DD02G_11_ANONYMOUS:17,rememb dual core,CPU#DESIGN_FEATURES,negative
+B0146DD02G_11_ANONYMOUS:18,fan kick even hot,FANS_COOLING#OPERATION_PERFORMANCE,negative
+B0146DD02G_11_ANONYMOUS:19,find track pad great,MOUSE#GENERAL,negative
+B0146DD02G_11_ANONYMOUS:20,use mous problem,MOUSE#GENERAL,neutral
+B0146DD02G_11_ANONYMOUS:21,good system worth,LAPTOP#GENERAL,positive
+B00GJUQ4Z0_17_ANONYMOUS:0,tablet style comput far meet requir,LAPTOP#GENERAL,positive
+B00GJUQ4Z0_17_ANONYMOUS:2,seduc comput take home,LAPTOP#GENERAL,positive
+B00GJUQ4Z0_17_ANONYMOUS:3,wireless keyboard bluetooth rf pair devic,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:3,wireless keyboard bluetooth rf pair devic,LAPTOP#CONNECTIVITY,negative
+B00GJUQ4Z0_17_ANONYMOUS:5,still pair,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:5,still pair,LAPTOP#CONNECTIVITY,negative
+B00GJUQ4Z0_17_ANONYMOUS:7,even run administr still effect,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:7,even run administr still effect,LAPTOP#CONNECTIVITY,negative
+B00GJUQ4Z0_17_ANONYMOUS:8,use ctrl esc key turn still noth,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:8,use ctrl esc key turn still noth,LAPTOP#CONNECTIVITY,negative
+B00GJUQ4Z0_17_ANONYMOUS:10,flicker briefli green light goe,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:12,still pair,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:12,still pair,LAPTOP#CONNECTIVITY,negative
+B00GJUQ4Z0_17_ANONYMOUS:13,want carri around bluetooth keyboard comput whose keyboard nonfunct,KEYBOARD#OPERATION_PERFORMANCE,negative
+B00GJUQ4Z0_17_ANONYMOUS:17,soni eat cost seller one get money back defect product,LAPTOP#QUALITY,negative
+B00GJUQ4Z0_17_ANONYMOUS:19,soni seem address,COMPANY#GENERAL,negative
+B0074703CM_159_ANONYMOUS:0,first mac comput mani fall love,LAPTOP#GENERAL,positive
+B0074703CM_159_ANONYMOUS:1,chang memori gb gb corsair vengeanc gb hdd rpm seagat hybrid gb hdd ssd,HARD_DISC#DESIGN_FEATURES,neutral
+B0074703CM_159_ANONYMOUS:1,chang memori gb gb corsair vengeanc gb hdd rpm seagat hybrid gb hdd ssd,MEMORY#DESIGN_FEATURES,neutral
+B0074703CM_159_ANONYMOUS:2,machin fli parallel desktop old pc notebook complet function mbp,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_159_ANONYMOUS:2,machin fli parallel desktop old pc notebook complet function mbp,SOFTWARE#GENERAL,positive
+B0074703CM_159_ANONYMOUS:2,machin fli parallel desktop old pc notebook complet function mbp,LAPTOP#USABILITY,positive
+B0074703CM_159_ANONYMOUS:3,way go enjoy world,LAPTOP#USABILITY,positive
+B0146DD02G_29_ANONYMOUS:4,asu look right type right one,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_29_ANONYMOUS:5,say price get nice fast laptop ask miss thing feel automat includ,LAPTOP#PRICE,positive
+B0146DD02G_29_ANONYMOUS:5,say price get nice fast laptop ask miss thing feel automat includ,LAPTOP#GENERAL,positive
+B0146DD02G_29_ANONYMOUS:5,say price get nice fast laptop ask miss thing feel automat includ,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_29_ANONYMOUS:5,say price get nice fast laptop ask miss thing feel automat includ,LAPTOP#DESIGN_FEATURES,negative
+B0146DD02G_29_ANONYMOUS:6,laptop touchscreen optic drive ok bit stretch would eat preciou space monster swivel detach screen,DISPLAY#DESIGN_FEATURES,negative
+B0146DD02G_29_ANONYMOUS:6,laptop touchscreen optic drive ok bit stretch would eat preciou space monster swivel detach screen,LAPTOP#DESIGN_FEATURES,negative
+B0146DD02G_29_ANONYMOUS:7,laptop window confus get ton amp bloatwar amp,LAPTOP#DESIGN_FEATURES,negative
+B0146DD02G_29_ANONYMOUS:7,laptop window confus get ton amp bloatwar amp,OS#USABILITY,negative
+B0146DD02G_29_ANONYMOUS:7,laptop window confus get ton amp bloatwar amp,SOFTWARE#GENERAL,negative
+B00M166GWM_6_ANONYMOUS:0,realli nice hate awkward right mous click sometim work sometim may laptop may laptop conjunct window,LAPTOP#GENERAL,positive
+B00M166GWM_6_ANONYMOUS:0,realli nice hate awkward right mous click sometim work sometim may laptop may laptop conjunct window,MOUSE#USABILITY,negative
+B00M166GWM_6_ANONYMOUS:0,realli nice hate awkward right mous click sometim work sometim may laptop may laptop conjunct window,MOUSE#OPERATION_PERFORMANCE,negative
+B00M166GWM_6_ANONYMOUS:1,either way highli annoy,MOUSE#USABILITY,negative
+B00M166GWM_6_ANONYMOUS:2,hook usb mous well,LAPTOP#CONNECTIVITY,positive
+B00M166GWM_6_ANONYMOUS:3,work beauti window take bit get use,LAPTOP#OPERATION_PERFORMANCE,positive
+B00M166GWM_6_ANONYMOUS:3,work beauti window take bit get use,OS#USABILITY,neutral
+B00M166GWM_6_ANONYMOUS:5,love degre rotat touch screen work great littl bit learn curv sometim tap time get exact locat need,LAPTOP#DESIGN_FEATURES,positive
+B00M166GWM_6_ANONYMOUS:5,love degre rotat touch screen work great littl bit learn curv sometim tap time get exact locat need,DISPLAY#OPERATION_PERFORMANCE,positive
+B00M166GWM_6_ANONYMOUS:5,love degre rotat touch screen work great littl bit learn curv sometim tap time get exact locat need,DISPLAY#USABILITY,neutral
+B00M166GWM_6_ANONYMOUS:6,overal learn thing downfal laptop mous neg could realli see,LAPTOP#GENERAL,positive
+B00M166GWM_6_ANONYMOUS:6,overal learn thing downfal laptop mous neg could realli see,MOUSE#GENERAL,negative
+B00O0W450A_3_ANONYMOUS:0,fantast transform,LAPTOP#GENERAL,positive
+B00O0W450A_3_ANONYMOUS:1,love play touchscreen great window platform,LAPTOP#GENERAL,positive
+B00O0W450A_3_ANONYMOUS:1,love play touchscreen great window platform,DISPLAY#GENERAL,positive
+B00O0W450A_3_ANONYMOUS:3,reason return buy use touchscreen photoshop program could util touchscreen within work space except zoom rotat,SOFTWARE#USABILITY,negative
+B00O0W450A_3_ANONYMOUS:3,reason return buy use touchscreen photoshop program could util touchscreen within work space except zoom rotat,DISPLAY#USABILITY,negative
+B00O0W450A_3_ANONYMOUS:4,would kept sole reason purchas,LAPTOP#GENERAL,positive
+B00O0W450A_3_ANONYMOUS:4,would kept sole reason purchas,LAPTOP#MISCELLANEOUS,negative
+B00O0W450A_3_ANONYMOUS:5,great product would recommend anyon look transform larg touchscreen,LAPTOP#GENERAL,positive
+B00O0W450A_3_ANONYMOUS:5,great product would recommend anyon look transform larg touchscreen,DISPLAY#DESIGN_FEATURES,positive
+B00O0W450A_3_ANONYMOUS:6,look forward need laptop updat purchas comput,LAPTOP#GENERAL,positive
+B00GJUQ4Z0_11_ANONYMOUS:0,week overal like comput thin amp light wireless keyboard work great,LAPTOP#GENERAL,positive
+B00GJUQ4Z0_11_ANONYMOUS:0,week overal like comput thin amp light wireless keyboard work great,LAPTOP#DESIGN_FEATURES,positive
+B00GJUQ4Z0_11_ANONYMOUS:0,week overal like comput thin amp light wireless keyboard work great,KEYBOARD#OPERATION_PERFORMANCE,positive
+B00GJUQ4Z0_11_ANONYMOUS:1,impress soni put small touch like usb charg port charger,LAPTOP#DESIGN_FEATURES,positive
+B00GJUQ4Z0_11_ANONYMOUS:2,one thing like stylu holder cheap plastic seem well think get instal cover usb port,HARDWARE#QUALITY,negative
+B00GJUQ4Z0_11_ANONYMOUS:2,one thing like stylu holder cheap plastic seem well think get instal cover usb port,LAPTOP#DESIGN_FEATURES,negative
+B00GJUQ4Z0_11_ANONYMOUS:3,use think would accid break loo stylu,HARDWARE#QUALITY,negative
+B00GJUQ4Z0_11_ANONYMOUS:4,issu amount time take updat oper system softwar get,LAPTOP#MISCELLANEOUS,negative
+B0146DD02G_21_ANONYMOUS:0,awesom laptop colleg,LAPTOP#MISCELLANEOUS,positive
+B0146DD02G_21_ANONYMOUS:1,use game well,LAPTOP#MISCELLANEOUS,positive
+B0146DD02G_21_ANONYMOUS:2,light fast great batteri,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_21_ANONYMOUS:2,light fast great batteri,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_21_ANONYMOUS:2,light fast great batteri,BATTERY#OPERATION_PERFORMANCE,positive
+B0146DD02G_21_ANONYMOUS:3,steal consid spec perform well,LAPTOP#PRICE,positive
+B0146DD02G_21_ANONYMOUS:3,steal consid spec perform well,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_21_ANONYMOUS:3,steal consid spec perform well,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_21_ANONYMOUS:4,processor gpu fantast run game multipl app,CPU#MISCELLANEOUS,positive
+B0146DD02G_21_ANONYMOUS:4,processor gpu fantast run game multipl app,GRAPHICS#MISCELLANEOUS,positive
+B0146DD02G_21_ANONYMOUS:5,run game good qualiti without see lack speed,LAPTOP#MISCELLANEOUS,positive
+B0146DD02G_21_ANONYMOUS:5,run game good qualiti without see lack speed,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_21_ANONYMOUS:6,backlit keyboard nice touch especi,KEYBOARD#DESIGN_FEATURES,positive
+B0146DD02G_21_ANONYMOUS:7,make sure handl comput clean hand front cover get oili pretti fast,LAPTOP#QUALITY,negative
+B0146DD02G_21_ANONYMOUS:8,overal plea new laptop,LAPTOP#GENERAL,positive
+B0146DD02G_21_ANONYMOUS:9,downsid speaker,MULTIMEDIA_DEVICES#QUALITY,negative
+B0146DD02G_21_ANONYMOUS:10,go loud,MULTIMEDIA_DEVICES#QUALITY,negative
+B0146DD02G_21_ANONYMOUS:11,qualiti sound nice lack volum realli kill,MULTIMEDIA_DEVICES#QUALITY,positive
+B0146DD02G_21_ANONYMOUS:11,qualiti sound nice lack volum realli kill,MULTIMEDIA_DEVICES#QUALITY,negative
+B0146DD02G_21_ANONYMOUS:12,mostli issu sinc mainli use earbud anyway howev could annoy time,MULTIMEDIA_DEVICES#USABILITY,negative
+B0146DD02G_21_ANONYMOUS:13,screen look fine issu like other say,DISPLAY#GENERAL,positive
+B0146DD02G_21_ANONYMOUS:14,overal great,LAPTOP#GENERAL,positive
+B0146DD02G_20_ANONYMOUS:1,laptop deliv,LAPTOP#GENERAL,positive
+B0146DD02G_20_ANONYMOUS:3,immedi window upgrad issu,LAPTOP#USABILITY,positive
+B0146DD02G_20_ANONYMOUS:4,wireless adapt strong ssd fast,LAPTOP#CONNECTIVITY,positive
+B0146DD02G_20_ANONYMOUS:4,wireless adapt strong ssd fast,HARD_DISC#OPERATION_PERFORMANCE,positive
+B0146DD02G_20_ANONYMOUS:5,thing boot second nice,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_20_ANONYMOUS:6,other mention issu view angl screen never use laptop look straight bother,DISPLAY#DESIGN_FEATURES,neutral
+B0146DD02G_20_ANONYMOUS:7,plea purchas,LAPTOP#GENERAL,positive
+B0074703CM_148_ANONYMOUS:1,boot time super fast around anywher second minut,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_148_ANONYMOUS:2,app launch super fast gb hdd suffici,SOFTWARE#OPERATION_PERFORMANCE,positive
+B0074703CM_148_ANONYMOUS:2,app launch super fast gb hdd suffici,HARD_DISC#DESIGN_FEATURES,positive
+B0074703CM_148_ANONYMOUS:3,usual use mac school work internet brow entri level macbook pro alreadi expect comput would typic use,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_148_ANONYMOUS:3,usual use mac school work internet brow entri level macbook pro alreadi expect comput would typic use,LAPTOP#GENERAL,positive
+B0074703CM_148_ANONYMOUS:4,mac hardli ever get virus complet incompat exist microsoft window virus,LAPTOP#QUALITY,positive
+B0074703CM_148_ANONYMOUS:5,furthermor mac os x mountain lion gate keeper prevent user download malwar trojan keep datum safe comput run optimum speed,OS#QUALITY,positive
+B0074703CM_148_ANONYMOUS:5,furthermor mac os x mountain lion gate keeper prevent user download malwar trojan keep datum safe comput run optimum speed,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_148_ANONYMOUS:6,key keyboard evenli space back light make easi use night speed write type,KEYBOARD#DESIGN_FEATURES,positive
+B0074703CM_148_ANONYMOUS:6,key keyboard evenli space back light make easi use night speed write type,KEYBOARD#USABILITY,positive
+B0074703CM_148_ANONYMOUS:7,overal screen resolut though non retina suffici normal web brow work,DISPLAY#QUALITY,positive
+B0074703CM_148_ANONYMOUS:9,thunderbolt port awesom,PORTS#OPERATION_PERFORMANCE,positive
+B0074703CM_148_ANONYMOUS:11,we come mbp transfer rate gbp,LAPTOP#DESIGN_FEATURES,neutral
+B0074703CM_148_ANONYMOUS:11,we come mbp transfer rate gbp,PORTS#OPERATION_PERFORMANCE,positive
+B0074703CM_148_ANONYMOUS:12,port includ firewir gigabit ethernet magsaf port microphon jack,LAPTOP#DESIGN_FEATURES,neutral
+B0074703CM_148_ANONYMOUS:13,sdhc card reader optic drive burn read disc,LAPTOP#DESIGN_FEATURES,neutral
+B0074703CM_148_ANONYMOUS:14,glass track pad larg enough appl highli acclaim multi touch gestur scroll web page two finger zoom certain part certain app doubl tap two finger access launchpad pinch five finger use mission control swipe four finger,MOUSE#DESIGN_FEATURES,positive
+B0074703CM_148_ANONYMOUS:14,glass track pad larg enough appl highli acclaim multi touch gestur scroll web page two finger zoom certain part certain app doubl tap two finger access launchpad pinch five finger use mission control swipe four finger,MOUSE#USABILITY,positive
+B0074703CM_148_ANONYMOUS:16,window user switch mac also enabl right click know appl secondari click system prefer gt mous enabl right click,MOUSE#DESIGN_FEATURES,positive
+B0074703CM_148_ANONYMOUS:17,uniqu appl aluminium uni bodi real beauti,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_148_ANONYMOUS:18,make mbp durabl protect scratch though go launch wall sake tri,LAPTOP#QUALITY,positive
+B0074703CM_148_ANONYMOUS:28,mac app store itun store phenoman,SOFTWARE#GENERAL,positive
+B0074703CM_148_ANONYMOUS:29,mac app store one stop shop mac softwar though also download softwar onlin risk,SOFTWARE#GENERAL,positive
+B0074703CM_148_ANONYMOUS:30,current around app app store count billion song avail download fro itun store,SOFTWARE#DESIGN_FEATURES,positive
+B0074703CM_148_ANONYMOUS:32,itun one well medium player avail market simpl use user interfac,SOFTWARE#GENERAL,positive
+B0074703CM_148_ANONYMOUS:32,itun one well medium player avail market simpl use user interfac,SOFTWARE#USABILITY,positive
+B0074703CM_148_ANONYMOUS:36,sure regret make purchas,LAPTOP#GENERAL,positive
+B00M166GWM_3_ANONYMOUS:0,one bad piec electron ever buy,LAPTOP#GENERAL,negative
+B00M166GWM_3_ANONYMOUS:1,pour perform,LAPTOP#OPERATION_PERFORMANCE,negative
+B00M166GWM_3_ANONYMOUS:2,take ever wake,LAPTOP#OPERATION_PERFORMANCE,negative
+B00M166GWM_3_ANONYMOUS:3,sometim stop receiv wifi signal restart,LAPTOP#CONNECTIVITY,negative
+B00M166GWM_3_ANONYMOUS:3,sometim stop receiv wifi signal restart,LAPTOP#OPERATION_PERFORMANCE,negative
+B00M166GWM_3_ANONYMOUS:4,slow respon,LAPTOP#OPERATION_PERFORMANCE,negative
+B00M166GWM_3_ANONYMOUS:5,would recommend,LAPTOP#GENERAL,negative
+B00M166GWM_3_ANONYMOUS:6,glare also pretti frustrat,DISPLAY#QUALITY,negative
+B00M166GWM_3_ANONYMOUS:7,definit say,LAPTOP#GENERAL,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:1,test work great,LAPTOP#OPERATION_PERFORMANCE,positive
+B00L49X8E6_72_AFJGZ7DKR9YLS:2,receiv one day later die,LAPTOP#QUALITY,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:2,receiv one day later die,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:3,laptop refu start troubleshoot area still fail start,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:4,even get bio,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:5,click black screen,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:6,cours die day past return window,LAPTOP#QUALITY,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:8,get two day oper laptop,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L49X8E6_72_AFJGZ7DKR9YLS:8,get two day oper laptop,LAPTOP#QUALITY,negative
+B0074703CM_251_ANONYMOUS:5,macbook pro arriv help transfer schoolwork pc mac easi drag drop process util flash drive,LAPTOP#USABILITY,positive
+B0074703CM_251_ANONYMOUS:6,deliv gb ram gb two stick probabl adequ,MEMORY#DESIGN_FEATURES,positive
+B0074703CM_251_ANONYMOUS:9,simpli pull one gb stick machin instal gb stick place,LAPTOP#USABILITY,positive
+B0074703CM_251_ANONYMOUS:10,machin gig ram work fine,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_251_ANONYMOUS:10,machin gig ram work fine,MEMORY#DESIGN_FEATURES,neutral
+B0074703CM_251_ANONYMOUS:11,hey appl,COMPANY#GENERAL,positive
+B0074703CM_251_ANONYMOUS:11,hey appl,LAPTOP#GENERAL,positive
+B0074703CM_251_ANONYMOUS:12,expect anyth less,COMPANY#GENERAL,positive
+B0074703CM_251_ANONYMOUS:12,expect anyth less,LAPTOP#GENERAL,positive
+B0074703CM_80_ANONYMOUS:0,possibl give start would done,LAPTOP#GENERAL,negative
+B0074703CM_80_ANONYMOUS:0,possibl give start would done,COMPANY#GENERAL,negative
+B0074703CM_80_ANONYMOUS:1,laptop one key keyboard come mechan failur,KEYBOARD#QUALITY,negative
+B0074703CM_80_ANONYMOUS:2,laptop coverag give repair quot,SUPPORT#QUALITY,negative
+B0074703CM_80_ANONYMOUS:2,laptop coverag give repair quot,SUPPORT#PRICE,negative
+B0074703CM_80_ANONYMOUS:3,compani want custom money pocket,COMPANY#GENERAL,negative
+B0074703CM_80_ANONYMOUS:4,do not care feel charg hundr hard earn dollar,COMPANY#GENERAL,negative
+B0074703CM_80_ANONYMOUS:5,wish compani go bust,COMPANY#GENERAL,negative
+B0074703CM_80_ANONYMOUS:6,never ever buy appl product life,COMPANY#GENERAL,negative
+B00O0W450A_1_ANONYMOUS:0,overal love,LAPTOP#GENERAL,positive
+B00O0W450A_1_ANONYMOUS:2,first move screen put tablet posit hing seem total solid,LAPTOP#QUALITY,negative
+B00O0W450A_1_ANONYMOUS:3,feel like need realli gentl mayb,LAPTOP#QUALITY,neutral
+B00O0W450A_1_ANONYMOUS:4,also mayb anoth person quirk keyboard sit littl far back tast watch scrape edg laptop,KEYBOARD#DESIGN_FEATURES,negative
+B00O0W450A_1_ANONYMOUS:4,also mayb anoth person quirk keyboard sit littl far back tast watch scrape edg laptop,KEYBOARD#USABILITY,negative
+B0074703CM_73_ANONYMOUS:0,first amaz laptop,LAPTOP#GENERAL,positive
+B0074703CM_73_ANONYMOUS:2,three year ago purchas bad boy still run great,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_73_ANONYMOUS:2,three year ago purchas bad boy still run great,LAPTOP#QUALITY,positive
+B0074703CM_73_ANONYMOUS:3,technic difficulti local appl contact line abl help asap quit impress,SUPPORT#QUALITY,positive
+B0074703CM_73_ANONYMOUS:4,purchas gig drive laptop dj thousand song pictur thing year manag fill around gig,HARD_DISC#DESIGN_FEATURES,positive
+B0074703CM_73_ANONYMOUS:5,much room,HARD_DISC#DESIGN_FEATURES,positive
+B0074703CM_73_ANONYMOUS:6,pro amaz storag gig gig,HARD_DISC#DESIGN_FEATURES,positive
+B0074703CM_73_ANONYMOUS:7,gig ram need product dj photographi movi make etc quick,MEMORY#DESIGN_FEATURES,positive
+B0074703CM_73_ANONYMOUS:7,gig ram need product dj photographi movi make etc quick,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_73_ANONYMOUS:8,anti spywar need never viru never,LAPTOP#QUALITY,positive
+B0074703CM_73_ANONYMOUS:9,build solid durabl,LAPTOP#QUALITY,positive
+B0074703CM_73_ANONYMOUS:10,buy year warranti boy need do,WARRANTY#GENERAL,positive
+B0074703CM_73_ANONYMOUS:11,con fall behind updat laptop becom progress slow updat back normal,LAPTOP#OPERATION_PERFORMANCE,neutral
+B0074703CM_73_ANONYMOUS:12,sometim stare mine would take extra minut boot time second,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_73_ANONYMOUS:13,manual take batteri unless work appl tool,LAPTOP#USABILITY,negative
+B0074703CM_73_ANONYMOUS:13,manual take batteri unless work appl tool,BATTERY#DESIGN_FEATURES,negative
+B0074703CM_73_ANONYMOUS:14,overal fantast laptop,LAPTOP#GENERAL,positive
+B0074703CM_73_ANONYMOUS:15,mine though hundr parti we d quinc anyth involv perform take,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_73_ANONYMOUS:16,laptop make art music beat make pictur movi graphic design,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_73_ANONYMOUS:17,way come app hardwar alreadi support list,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_73_ANONYMOUS:18,laptop last half decad full decad,LAPTOP#QUALITY,positive
+B0074703CM_73_ANONYMOUS:19,soon hit year mark think thing make anoth opinion,LAPTOP#QUALITY,positive
+B0074703CM_73_ANONYMOUS:20,get,LAPTOP#GENERAL,positive
+B0074703CM_73_ANONYMOUS:21,way pay particular laptop roughli grand look price,LAPTOP#PRICE,positive
+B0146DD02G_24_ANONYMOUS:0,great laptop,LAPTOP#GENERAL,positive
+B0146DD02G_24_ANONYMOUS:1,buy colleg happy,LAPTOP#GENERAL,positive
+B0146DD02G_24_ANONYMOUS:2,ssd complement realli well,CPU#GENERAL,positive
+B0146DD02G_24_ANONYMOUS:2,ssd complement realli well,HARD_DISC#GENERAL,positive
+B0146DD02G_24_ANONYMOUS:5,pretti skeptic upgrad window pretti awesom,OS#GENERAL,positive
+B0146DD02G_24_ANONYMOUS:6,look light durabl extrem effeci laptop buy one,LAPTOP#DESIGN_FEATURES,positive
+B0146DD02G_24_ANONYMOUS:6,look light durabl extrem effeci laptop buy one,LAPTOP#QUALITY,positive
+B0146DD02G_24_ANONYMOUS:6,look light durabl extrem effeci laptop buy one,LAPTOP#OPERATION_PERFORMANCE,positive
+B0146DD02G_24_ANONYMOUS:6,look light durabl extrem effeci laptop buy one,LAPTOP#GENERAL,positive
+B0074703CM_24_ANONYMOUS:2,realli know,COMPANY#GENERAL,positive
+B0074703CM_24_ANONYMOUS:2,realli know,LAPTOP#GENERAL,positive
+B0074703CM_24_ANONYMOUS:3,laptop easi work,LAPTOP#USABILITY,positive
+B0074703CM_24_ANONYMOUS:4,like design peopl would want system user friendli,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_24_ANONYMOUS:4,like design peopl would want system user friendli,LAPTOP#USABILITY,positive
+B0074703CM_24_ANONYMOUS:5,simplic one thing make great asid qualiti design sexi look,LAPTOP#USABILITY,positive
+B0074703CM_24_ANONYMOUS:5,simplic one thing make great asid qualiti design sexi look,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_24_ANONYMOUS:5,simplic one thing make great asid qualiti design sexi look,LAPTOP#QUALITY,positive
+B0074703CM_24_ANONYMOUS:6,do not like window would suggest tri mac,LAPTOP#GENERAL,positive
+B0074703CM_24_ANONYMOUS:6,do not like window would suggest tri mac,COMPANY#GENERAL,positive
+B0074703CM_24_ANONYMOUS:7,invest worth,LAPTOP#GENERAL,positive
+B0074703CM_24_ANONYMOUS:7,invest worth,COMPANY#GENERAL,positive
+B0074703CM_234_ANONYMOUS:0,buy sever laptop last sever year hand well ever,LAPTOP#GENERAL,positive
+B0074703CM_234_ANONYMOUS:2,mac user interfac well,OS#USABILITY,positive
+B0074703CM_234_ANONYMOUS:4,also laptop quit burn lap good screen display small addit like backlit keyboard win heart,LAPTOP#QUALITY,positive
+B0074703CM_234_ANONYMOUS:4,also laptop quit burn lap good screen display small addit like backlit keyboard win heart,DISPLAY#QUALITY,positive
+B0074703CM_234_ANONYMOUS:4,also laptop quit burn lap good screen display small addit like backlit keyboard win heart,KEYBOARD#DESIGN_FEATURES,positive
+B0074703CM_234_ANONYMOUS:4,also laptop quit burn lap good screen display small addit like backlit keyboard win heart,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_234_ANONYMOUS:8,thing dislik everyth mac expen guess pay qualiti,LAPTOP#QUALITY,positive
+B0074703CM_234_ANONYMOUS:8,thing dislik everyth mac expen guess pay qualiti,LAPTOP#PRICE,negative
+B0074703CM_84_ANONYMOUS:0,impress macintosh product,COMPANY#GENERAL,negative
+B0074703CM_84_ANONYMOUS:1,fact complet frustrat,COMPANY#GENERAL,negative
+B0074703CM_84_ANONYMOUS:3,also mani softwar program compat io platform,OS#USABILITY,negative
+B0074703CM_84_ANONYMOUS:6,sure program need work mac buy one,LAPTOP#USABILITY,negative
+B0074703CM_192_ANONYMOUS:1,hear peopl speak highli macbook pro colleg student disappoint two half year exten use,LAPTOP#GENERAL,positive
+B0074703CM_192_ANONYMOUS:2,macbook pro use colleg student mani reason,LAPTOP#MISCELLANEOUS,positive
+B0074703CM_192_ANONYMOUS:3,cheap product line macbook,LAPTOP#PRICE,positive
+B0074703CM_192_ANONYMOUS:4,new oper system call snow leopard instal readi use,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_192_ANONYMOUS:4,new oper system call snow leopard instal readi use,OS#USABILITY,positive
+B0074703CM_192_ANONYMOUS:5,batteri life increa last version hour hour make easi colleg student studi extend period time without need charger,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_192_ANONYMOUS:7,reliabl throughout past year problem macbook pro regard process system design flaw,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_192_ANONYMOUS:7,reliabl throughout past year problem macbook pro regard process system design flaw,OS#QUALITY,positive
+B0074703CM_192_ANONYMOUS:8,durabl comput fall small height spill last damag consol light plastic case,LAPTOP#QUALITY,positive
+B0074703CM_192_ANONYMOUS:11,usabl macbook pro easi use use someon necessarili exten knowledg comput,LAPTOP#USABILITY,positive
+B0074703CM_192_ANONYMOUS:12,process system alreadi download applic user friendli,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_192_ANONYMOUS:12,process system alreadi download applic user friendli,SOFTWARE#USABILITY,positive
+B0074703CM_192_ANONYMOUS:13,macbook pro signific amount posit attribut greatli outweigh neg attribut,LAPTOP#GENERAL,positive
+B0074703CM_192_ANONYMOUS:14,pro usual run smoothli appl excel support team alway will help custom,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_192_ANONYMOUS:14,pro usual run smoothli appl excel support team alway will help custom,SUPPORT#QUALITY,positive
+B0074703CM_192_ANONYMOUS:16,extend batteri life,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_192_ANONYMOUS:17,extrem user friendli,LAPTOP#USABILITY,positive
+B0074703CM_192_ANONYMOUS:18,con peopl enjoy way process system run issu get function,OS#OPERATION_PERFORMANCE,positive
+B0074703CM_192_ANONYMOUS:19,other problem applic depend need use devic exampl engin major need extra applic amp system work easili download,LAPTOP#USABILITY,positive
+B00O0W450A_9_ANONYMOUS:0,first laptop ever flip tablet mode also brilliant,LAPTOP#DESIGN_FEATURES,positive
+B00O0W450A_9_ANONYMOUS:1,far good,LAPTOP#GENERAL,positive
+B00O0W450A_9_ANONYMOUS:2,batteri hold say descript get refurb imagin swap batteri help cover cost reduc price guess,BATTERY#OPERATION_PERFORMANCE,negative
+B00O0W450A_9_ANONYMOUS:2,batteri hold say descript get refurb imagin swap batteri help cover cost reduc price guess,LAPTOP#PRICE,positive
+B00O0W450A_9_ANONYMOUS:3,still get use type palm keep hit mousepad caus cursor jump move type,KEYBOARD#USABILITY,neutral
+B00O0W450A_9_ANONYMOUS:3,still get use type palm keep hit mousepad caus cursor jump move type,MOUSE#USABILITY,negative
+B00O0W450A_9_ANONYMOUS:5,plenti port sinc first laptop realli anyth compar,LAPTOP#DESIGN_FEATURES,positive
+B00L156USY_11_ANONYMOUS:0,note dvd drive ethernet port,LAPTOP#DESIGN_FEATURES,negative
+B00L156USY_11_ANONYMOUS:1,screen small read almost imposs touch normal adult finger,DISPLAY#DESIGN_FEATURES,negative
+B00L156USY_11_ANONYMOUS:1,screen small read almost imposs touch normal adult finger,DISPLAY#USABILITY,negative
+B00L156USY_11_ANONYMOUS:2,bright screen set appear dim normal room light,DISPLAY#QUALITY,negative
+B00L156USY_11_ANONYMOUS:3,keyboard flimsi mediocr well,KEYBOARD#QUALITY,negative
+B00L156USY_11_ANONYMOUS:4,touch pad feel scale,MOUSE#QUALITY,negative
+B00L156USY_11_ANONYMOUS:5,comput seem sluggish intel core devic,LAPTOP#OPERATION_PERFORMANCE,negative
+B00L156USY_11_ANONYMOUS:6,power good luck find,LAPTOP#DESIGN_FEATURES,negative
+B00L156USY_11_ANONYMOUS:6,power good luck find,LAPTOP#USABILITY,negative
+B00L156USY_11_ANONYMOUS:7,would run back comput store return expen toy,LAPTOP#GENERAL,negative
+B00L156USY_11_ANONYMOUS:7,would run back comput store return expen toy,LAPTOP#PRICE,negative
+B00L156USY_11_ANONYMOUS:8,sign impress,LAPTOP#GENERAL,negative
+B00O0W450A_18_ANONYMOUS:0,buy month ago hold fairli well,LAPTOP#GENERAL,positive
+B00O0W450A_18_ANONYMOUS:1,run fast touch screen lose sensit overal happi,LAPTOP#OPERATION_PERFORMANCE,positive
+B00O0W450A_18_ANONYMOUS:1,run fast touch screen lose sensit overal happi,DISPLAY#OPERATION_PERFORMANCE,positive
+B00O0W450A_18_ANONYMOUS:1,run fast touch screen lose sensit overal happi,LAPTOP#GENERAL,positive
+B00O0W450A_18_ANONYMOUS:3,one,MOUSE#USABILITY,negative
+B00O0W450A_18_ANONYMOUS:4,trackpad pretti crappi,MOUSE#QUALITY,negative
+B0074703CM_166_ANONYMOUS:0,first appl comput plea,LAPTOP#GENERAL,positive
+B0074703CM_166_ANONYMOUS:1,io everyth bill much much,OS#GENERAL,positive
+B0074703CM_166_ANONYMOUS:2,liter everi detail think design user mind,OS#DESIGN_FEATURES,positive
+B0074703CM_166_ANONYMOUS:3,believ much time save automat process,OS#USABILITY,positive
+B0074703CM_166_ANONYMOUS:4,comput peopl,LAPTOP#GENERAL,positive
+B00O0W450A_10_ANONYMOUS:0,love laptop,LAPTOP#GENERAL,positive
+B00O0W450A_10_ANONYMOUS:2,batter last long claim,BATTERY#OPERATION_PERFORMANCE,positive
+B00O0W450A_10_ANONYMOUS:3,get hour play sim,BATTERY#OPERATION_PERFORMANCE,positive
+B00O0W450A_10_ANONYMOUS:4,realli offici test yet long time,BATTERY#OPERATION_PERFORMANCE,positive
+B00O0W450A_10_ANONYMOUS:5,hate plug laptop want leav long hurt batteri laptop rare charg,BATTERY#OPERATION_PERFORMANCE,positive
+B00O0W450A_10_ANONYMOUS:6,touchscreen respon even work crappi dollar stylu,DISPLAY#OPERATION_PERFORMANCE,positive
+B00O0W450A_10_ANONYMOUS:6,touchscreen respon even work crappi dollar stylu,DISPLAY#USABILITY,positive
+B00O0W450A_10_ANONYMOUS:7,problem window,OS#GENERAL,negative
+B00O0W450A_10_ANONYMOUS:8,hate window,OS#GENERAL,negative
+B00O0W450A_10_ANONYMOUS:9,make sign microsoft sometim let download thing harm comput anti viru softwar lol,OS#USABILITY,negative
+B00O0W450A_10_ANONYMOUS:10,wifi rumor happen,LAPTOP#CONNECTIVITY,positive
+B00O0W450A_10_ANONYMOUS:11,wifi work great,LAPTOP#CONNECTIVITY,positive
+B00O0W450A_10_ANONYMOUS:13,feel well build,LAPTOP#QUALITY,positive
+B00O0W450A_10_ANONYMOUS:14,metal expen feel,LAPTOP#QUALITY,positive
+B00O0W450A_10_ANONYMOUS:15,laptop littl inch thick close,LAPTOP#DESIGN_FEATURES,neutral
+B00O0W450A_10_ANONYMOUS:16,weak girl could lift laptop one hand howev get tire soon lol,LAPTOP#PORTABILITY,negative
+B00O0W450A_10_ANONYMOUS:17,amp screen good carri around bare hand,LAPTOP#PORTABILITY,negative
+B0074703CM_225_ANONYMOUS:0,buy first macbook exactli month ago realli happi new toy surpris turn day ago screen complet black,LAPTOP#GENERAL,negative
+B0074703CM_225_ANONYMOUS:0,buy first macbook exactli month ago realli happi new toy surpris turn day ago screen complet black,DISPLAY#OPERATION_PERFORMANCE,negative
+B0074703CM_225_ANONYMOUS:0,buy first macbook exactli month ago realli happi new toy surpris turn day ago screen complet black,DISPLAY#QUALITY,negative
+B0074703CM_225_ANONYMOUS:1,hear nois comput turn light also turn screen complet dead,DISPLAY#OPERATION_PERFORMANCE,negative
+B0074703CM_225_ANONYMOUS:1,hear nois comput turn light also turn screen complet dead,DISPLAY#QUALITY,negative
+B0074703CM_63_ANONYMOUS:0,good comput ever buy,LAPTOP#GENERAL,positive
+B0074703CM_63_ANONYMOUS:1,simpl look icon format make easi navig program download file,OS#DESIGN_FEATURES,positive
+B0074703CM_63_ANONYMOUS:1,simpl look icon format make easi navig program download file,LAPTOP#USABILITY,positive
+B0074703CM_63_ANONYMOUS:2,issu harddriv,HARD_DISC#OPERATION_PERFORMANCE,negative
+B0074703CM_63_ANONYMOUS:3,harddriv crash think lose whole comput,HARD_DISC#OPERATION_PERFORMANCE,negative
+B0074703CM_63_ANONYMOUS:5,replac harddriv laptop extrem easi coupl screw back remov backplat harddriv pretti much plug play,LAPTOP#USABILITY,positive
+B0074703CM_63_ANONYMOUS:7,appl happi instal late osx free,SUPPORT#QUALITY,positive
+B0074703CM_63_ANONYMOUS:8,will not disappoint comput,LAPTOP#GENERAL,positive
+B0074703CM_85_ANONYMOUS:3,matter get use touch pad command,MOUSE#USABILITY,neutral
+B0074703CM_85_ANONYMOUS:4,thank earphon extern amplifi audio onboard speaker terribl,MULTIMEDIA_DEVICES#GENERAL,negative
+B0074703CM_85_ANONYMOUS:5,expect unit thin light,LAPTOP#DESIGN_FEATURES,neutral
+B0074703CM_314_ANONYMOUS:0,disappoint purchas life,LAPTOP#GENERAL,negative
+B0074703CM_314_ANONYMOUS:2,receiv dud noth problem sinc right purchas horribl machin,LAPTOP#QUALITY,negative
+B0074703CM_314_ANONYMOUS:2,receiv dud noth problem sinc right purchas horribl machin,LAPTOP#GENERAL,negative
+B0074703CM_314_ANONYMOUS:3,within first month buy clearli problem hard drive,HARD_DISC#QUALITY,negative
+B0074703CM_314_ANONYMOUS:6,onlin custom servic aw,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:7,give runaround entir day treat like imbecil,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:8,one would ever answer question get anoth new macbook sinc clearli factori error macbook still warranti,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:9,matter fact matter mani time ask question employe speak purpos ignor,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:10,say ye say pretend never ask incred frustrat,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:11,amp geniu amp bar sever time nice,SUPPORT#QUALITY,positive
+B0074703CM_314_ANONYMOUS:12,basic replac everyth insid machin tell problem hardwar amp refurbish amp machin,LAPTOP#QUALITY,negative
+B0074703CM_314_ANONYMOUS:12,basic replac everyth insid machin tell problem hardwar amp refurbish amp machin,HARDWARE#QUALITY,negative
+B0074703CM_314_ANONYMOUS:13,mayb reason feel new comput pay refurbish comput,LAPTOP#MISCELLANEOUS,negative
+B0074703CM_314_ANONYMOUS:14,still weird freez problem pretti slow pinpoint enough yet take,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_314_ANONYMOUS:15,delus grandeur regard appl amp great custom servic amp amp reliabl machin amp etc etc blah blah,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:15,delus grandeur regard appl amp great custom servic amp amp reliabl machin amp etc etc blah blah,LAPTOP#QUALITY,negative
+B0074703CM_314_ANONYMOUS:15,delus grandeur regard appl amp great custom servic amp amp reliabl machin amp etc etc blah blah,COMPANY#GENERAL,negative
+B0074703CM_314_ANONYMOUS:17,sure peopl macbook work fine fyi get factori dud stick one appl care give hoot money throw away,SUPPORT#QUALITY,negative
+B0074703CM_314_ANONYMOUS:17,sure peopl macbook work fine fyi get factori dud stick one appl care give hoot money throw away,COMPANY#GENERAL,negative
+B0074703CM_224_ANONYMOUS:10,one os platform oem os paraphernalia automat updat,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_224_ANONYMOUS:10,one os platform oem os paraphernalia automat updat,OS#DESIGN_FEATURES,positive
+B0074703CM_224_ANONYMOUS:11,happi feel speed seamless transit mac,LAPTOP#QUALITY,positive
+B0074703CM_224_ANONYMOUS:11,happi feel speed seamless transit mac,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_224_ANONYMOUS:11,happi feel speed seamless transit mac,LAPTOP#USABILITY,positive
+B0074703CM_224_ANONYMOUS:15,well right whatev world take long get comput work,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_224_ANONYMOUS:16,power user learn curv mac anyth geeki enough forc learn os,LAPTOP#USABILITY,positive
+B0074703CM_224_ANONYMOUS:16,power user learn curv mac anyth geeki enough forc learn os,OS#USABILITY,positive
+B0074703CM_224_ANONYMOUS:17,buy offic mac low price migrat work file steal opinion,SOFTWARE#PRICE,positive
+B0074703CM_224_ANONYMOUS:18,otherwis happili mac user,LAPTOP#GENERAL,positive
+B0074703CM_224_ANONYMOUS:18,otherwis happili mac user,COMPANY#GENERAL,positive
+B0074703CM_34_ANONYMOUS:0,premium laptop sell appl macbook pro inch base model basic get ssd discret graphic p display touch screen,LAPTOP#GENERAL,neutral
+B0074703CM_34_ANONYMOUS:0,premium laptop sell appl macbook pro inch base model basic get ssd discret graphic p display touch screen,GRAPHICS#DESIGN_FEATURES,neutral
+B0074703CM_34_ANONYMOUS:0,premium laptop sell appl macbook pro inch base model basic get ssd discret graphic p display touch screen,LAPTOP#DESIGN_FEATURES,neutral
+B0074703CM_34_ANONYMOUS:0,premium laptop sell appl macbook pro inch base model basic get ssd discret graphic p display touch screen,DISPLAY#DESIGN_FEATURES,neutral
+B0074703CM_34_ANONYMOUS:1,appl pretend,COMPANY#GENERAL,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,SOFTWARE#QUALITY,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,HARDWARE#QUALITY,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,OS#GENERAL,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,LAPTOP#DESIGN_FEATURES,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,BATTERY#OPERATION_PERFORMANCE,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,KEYBOARD#GENERAL,positive
+B0074703CM_34_ANONYMOUS:2,great reliabl softwar side hardwar side appl osx mountain lion sleek look appl alway deliv reason spec good batteri life nice keyboard excel trackpad,MOUSE#GENERAL,positive
+B0074703CM_34_ANONYMOUS:4,look bargain laptop shi away enorm price tag want play late game ever use mac,LAPTOP#PRICE,negative
+B0074703CM_34_ANONYMOUS:4,look bargain laptop shi away enorm price tag want play late game ever use mac,LAPTOP#MISCELLANEOUS,negative
+B0074703CM_34_ANONYMOUS:6,macbook pro inch laptop want use mac valu perform upgrad weight screen resolut,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_34_ANONYMOUS:6,macbook pro inch laptop want use mac valu perform upgrad weight screen resolut,LAPTOP#USABILITY,positive
+B0074703CM_34_ANONYMOUS:6,macbook pro inch laptop want use mac valu perform upgrad weight screen resolut,LAPTOP#DESIGN_FEATURES,negative
+B0074703CM_34_ANONYMOUS:6,macbook pro inch laptop want use mac valu perform upgrad weight screen resolut,DISPLAY#QUALITY,negative
+B0074703CM_34_ANONYMOUS:7,mac last long simpli easy upgrad repair,LAPTOP#QUALITY,positive
+B0074703CM_34_ANONYMOUS:7,mac last long simpli easy upgrad repair,LAPTOP#USABILITY,positive
+B0074703CM_34_ANONYMOUS:8,hard drive replac ram ad need intern batteri replac lose abil hold charg,LAPTOP#USABILITY,positive
+B0074703CM_34_ANONYMOUS:12,ad fact speed hard drive slow money detract comput valu,HARD_DISC#OPERATION_PERFORMANCE,negative
+B0074703CM_34_ANONYMOUS:12,ad fact speed hard drive slow money detract comput valu,LAPTOP#PRICE,negative
+B0074703CM_34_ANONYMOUS:12,ad fact speed hard drive slow money detract comput valu,LAPTOP#GENERAL,negative
+B0074703CM_34_ANONYMOUS:13,low price one hundr dollar would justifi hard drive screen make comput five star purchas price four star good comput,LAPTOP#PRICE,negative
+B0074703CM_34_ANONYMOUS:13,low price one hundr dollar would justifi hard drive screen make comput five star purchas price four star good comput,LAPTOP#GENERAL,positive
+B0074703CM_34_ANONYMOUS:16,tldr version good reliabl laptop mediocr screen slow hard drive,HARD_DISC#OPERATION_PERFORMANCE,negative
+B0074703CM_34_ANONYMOUS:16,tldr version good reliabl laptop mediocr screen slow hard drive,DISPLAY#QUALITY,neutral
+B0074703CM_34_ANONYMOUS:16,tldr version good reliabl laptop mediocr screen slow hard drive,LAPTOP#QUALITY,positive
+B0074703CM_34_ANONYMOUS:16,tldr version good reliabl laptop mediocr screen slow hard drive,LAPTOP#GENERAL,positive
+B0074703CM_149_ANONYMOUS:0,realli sorri buy machin,LAPTOP#GENERAL,negative
+B0074703CM_149_ANONYMOUS:2,shock much wor product sinc first purchas,LAPTOP#GENERAL,negative
+B0074703CM_149_ANONYMOUS:4,machin make go time noth continu problem,LAPTOP#QUALITY,negative
+B0074703CM_149_ANONYMOUS:4,machin make go time noth continu problem,LAPTOP#GENERAL,negative
+B0074703CM_149_ANONYMOUS:5,final send motherboard replac,MOTHERBOARD#QUALITY,neutral
+B0074703CM_149_ANONYMOUS:6,lemon,LAPTOP#QUALITY,negative
+B0074703CM_149_ANONYMOUS:7,cool mac buy,COMPANY#GENERAL,negative
+B0074703CM_149_ANONYMOUS:11,replac motherboard,SUPPORT#QUALITY,negative
+B0074703CM_149_ANONYMOUS:12,instead tighten loo wire,SUPPORT#QUALITY,negative
+B0074703CM_149_ANONYMOUS:13,also big new scratch top cover,SUPPORT#QUALITY,negative
+B0074703CM_149_ANONYMOUS:14,start still problem go fix,SUPPORT#QUALITY,negative
+B0074703CM_149_ANONYMOUS:15,go back geniu bar visit,SUPPORT#QUALITY,negative
+B0074703CM_149_ANONYMOUS:16,think may appl care instead appl care,SUPPORT#QUALITY,negative
+B0074703CM_149_ANONYMOUS:16,think may appl care instead appl care,COMPANY#GENERAL,negative
+B0074703CM_157_ANONYMOUS:1,get pay right,LAPTOP#PRICE,negative
+B0074703CM_157_ANONYMOUS:1,get pay right,LAPTOP#GENERAL,negative
+B0074703CM_157_ANONYMOUS:5,mac complic frustrat moment,OS#DESIGN_FEATURES,negative
+B0074703CM_157_ANONYMOUS:5,mac complic frustrat moment,OS#USABILITY,negative
+B0074703CM_157_ANONYMOUS:6,watch tutori help somewhat enough,OS#USABILITY,negative
+B0074703CM_157_ANONYMOUS:11,know well,LAPTOP#GENERAL,negative
+B0074703CM_157_ANONYMOUS:12,hope make mistak,LAPTOP#GENERAL,negative
+B0074703CM_257_ANONYMOUS:0,first get comput notic track pad hard click,MOUSE#USABILITY,negative
+B0074703CM_257_ANONYMOUS:3,take macbook appl store replac batteri month use sinc swell,BATTERY#QUALITY,negative
+B0074703CM_257_ANONYMOUS:4,tri tell batteri cover warranti cost replac,SUPPORT#QUALITY,negative
+B0074703CM_257_ANONYMOUS:5,end charg,SUPPORT#QUALITY,neutral
+B0074703CM_257_ANONYMOUS:6,batteri issu batteri life last long pretti happi comput,BATTERY#QUALITY,negative
+B0074703CM_257_ANONYMOUS:6,batteri issu batteri life last long pretti happi comput,BATTERY#OPERATION_PERFORMANCE,negative
+B0074703CM_257_ANONYMOUS:6,batteri issu batteri life last long pretti happi comput,LAPTOP#GENERAL,positive
+B0074703CM_282_ANONYMOUS:0,design turn front end develop comput unus front end develop,LAPTOP#MISCELLANEOUS,negative
+B0074703CM_282_ANONYMOUS:2,open photoshop take fooooooorrrev program begin,SOFTWARE#OPERATION_PERFORMANCE,negative
+B0074703CM_282_ANONYMOUS:2,open photoshop take fooooooorrrev program begin,LAPTOP#USABILITY,negative
+B0074703CM_282_ANONYMOUS:3,free upgrad mountain lion fail,OS#MISCELLANEOUS,negative
+B0074703CM_282_ANONYMOUS:5,tri boot screen flash,DISPLAY#OPERATION_PERFORMANCE,negative
+B0074703CM_282_ANONYMOUS:6,resolv issu see damn beachbal time comput tri figur hell wait,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_282_ANONYMOUS:7,spend much time wait,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_282_ANONYMOUS:10,believ peopl like comput,LAPTOP#GENERAL,negative
+B0074703CM_282_ANONYMOUS:10,believ peopl like comput,COMPANY#GENERAL,negative
+B0074703CM_282_ANONYMOUS:11,viru free l see absolut benefit appl product slow expen last long,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_282_ANONYMOUS:11,viru free l see absolut benefit appl product slow expen last long,LAPTOP#PRICE,negative
+B0074703CM_282_ANONYMOUS:11,viru free l see absolut benefit appl product slow expen last long,LAPTOP#QUALITY,negative
+B0074703CM_282_ANONYMOUS:11,viru free l see absolut benefit appl product slow expen last long,COMPANY#GENERAL,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:0,wast money,LAPTOP#GENERAL,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:1,hp seem great first problem start wireless adapt would quot disappear quot system say network card,LAPTOP#GENERAL,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:1,hp seem great first problem start wireless adapt would quot disappear quot system say network card,LAPTOP#CONNECTIVITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:2,sometim come back sometim,LAPTOP#CONNECTIVITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:3,hp help,SUPPORT#QUALITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:4,letter wear key well abl type blind,KEYBOARD#QUALITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:4,letter wear key well abl type blind,KEYBOARD#USABILITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:5,batteri last month pffft go,BATTERY#QUALITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:8,boot issu hp recoveri work,LAPTOP#MISCELLANEOUS,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:9,disk make work hp support state quot hardwar compani softwar compani quot,LAPTOP#MISCELLANEOUS,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:9,disk make work hp support state quot hardwar compani softwar compani quot,SUPPORT#QUALITY,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:11,power cord recal hp never notifi we regist never,COMPANY#GENERAL,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:16,inclin time devot compani tech support search function hold time drop hp never look back,LAPTOP#GENERAL,negative
+B00LNFCADQ_5_ALWWKZCL1CKGD:16,inclin time devot compani tech support search function hold time drop hp never look back,COMPANY#GENERAL,negative
+B0074703CM_6_ANONYMOUS:0,give product star look macbook pro long time find wonder price,LAPTOP#PRICE,positive
+B0074703CM_6_ANONYMOUS:0,give product star look macbook pro long time find wonder price,LAPTOP#GENERAL,positive
+B0074703CM_6_ANONYMOUS:1,use product day wait use,LAPTOP#GENERAL,positive
+B0074703CM_6_ANONYMOUS:2,realli like mac appl product oper system,OS#GENERAL,positive
+B0074703CM_6_ANONYMOUS:2,realli like mac appl product oper system,COMPANY#GENERAL,positive
+B0074703CM_6_ANONYMOUS:4,tweet use facebook sidebar realli nice,OS#USABILITY,positive
+B0074703CM_6_ANONYMOUS:5,also like option push calendar photo contact ipad ipod touch iphon,OS#USABILITY,positive
+B0074703CM_6_ANONYMOUS:6,thing troubl far transfer music itun would like though amp home share amp use itun comput separ linux comput could figur,SOFTWARE#USABILITY,negative
+B0074703CM_6_ANONYMOUS:7,end use ipod transfer itun music download amazon music lose rate,SOFTWARE#USABILITY,negative
+B0074703CM_6_ANONYMOUS:9,tri game hear mac appl game well,LAPTOP#MISCELLANEOUS,negative
+B0074703CM_6_ANONYMOUS:10,plan use macbook pro long time,LAPTOP#GENERAL,positive
+B0074703CM_173_ANONYMOUS:0,decid buy first comput wish buy mac first,LAPTOP#GENERAL,positive
+B0074703CM_173_ANONYMOUS:1,price deter find well worth term troubl free oper,LAPTOP#PRICE,negative
+B0074703CM_173_ANONYMOUS:1,price deter find well worth term troubl free oper,LAPTOP#OPERATION_PERFORMANCE,positive
+B0074703CM_173_ANONYMOUS:2,year find anti viru softwar need long download anyth without sure legitim sourc,LAPTOP#QUALITY,positive
+B0074703CM_173_ANONYMOUS:4,time time get spin beach ball hold progress,LAPTOP#OPERATION_PERFORMANCE,negative
+B0074703CM_173_ANONYMOUS:5,almost alway fix quickli click show bookmark icon open book icon upper leave,LAPTOP#USABILITY,positive
+B0074703CM_173_ANONYMOUS:6,long work case turn comput sign problem solv,LAPTOP#USABILITY,neutral
+B0074703CM_173_ANONYMOUS:7,leav technic aspect knowledg conclud say delight purchas,LAPTOP#GENERAL,positive
+B00L156USY_7_ANONYMOUS:0,receiv item everyth great except touchpad rever,LAPTOP#GENERAL,positive
+B00L156USY_7_ANONYMOUS:0,receiv item everyth great except touchpad rever,MOUSE#OPERATION_PERFORMANCE,negative
+B00L156USY_7_ANONYMOUS:1,go left go right vice versa go go,MOUSE#OPERATION_PERFORMANCE,negative
+B00L156USY_7_ANONYMOUS:1,go left go right vice versa go go,MOUSE#USABILITY,negative
+B00L156USY_7_ANONYMOUS:2,attach mous fine touchpad realli annoy,MOUSE#USABILITY,negative
+B00L156USY_7_ANONYMOUS:3,go set way fix,MOUSE#USABILITY,negative
+B00L156USY_7_ANONYMOUS:6,great laptop right annoy use touchpad,LAPTOP#GENERAL,positive
+B00L156USY_7_ANONYMOUS:6,great laptop right annoy use touchpad,MOUSE#USABILITY,negative
